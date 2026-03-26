@@ -1,0 +1,151 @@
+Player,Batting Strike Rate,Batsmen Total Runs,Batting Average,No of Sixes,No of Fours,Balls Faced,Total career dot balls played,No of Centuries Scored,No of Half Centuries Scored,No of Catches,No of Stumpings,No of Run Outs,Age of the Player,Last Auction Price Sold (in Crs),Category,Country,Role,Capped or Uncapped
+Synthetic_Player_1,113.25,551,18.47,19,49,474,186,0,2,14,2,1,27,0.63,International,Nepal,Wk-Batsman,Uncapped
+Synthetic_Player_2,142.24,3257,29.69,157,311,2314,864,1,20,56,7,2,34,2.60,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_3,137.54,890,31.38,28,91,639,223,0,7,17,2,1,32,0.21,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_4,135.13,605,23.11,26,55,466,165,0,2,19,2,2,27,1.44,International,India,Wk-Batsman,Capped
+Synthetic_Player_5,142.25,867,27.49,39,86,583,223,0,5,23,2,2,29,1.16,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_6,168.62,1351,35.99,83,111,774,228,2,7,25,5,3,32,17.00,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_7,132.87,785,23.44,32,75,573,211,0,3,25,4,3,28,0.64,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_8,139.17,3311,28.83,152,302,2417,875,2,17,68,11,8,29,9.58,International,India,Wk-Batsman,Capped
+Synthetic_Player_9,136.28,2977,28.76,118,277,2171,775,1,18,61,11,4,33,1.00,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_10,138.19,1588,28.58,55,161,1226,420,1,8,40,7,5,31,0.20,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_11,147.75,1083,26.64,59,89,713,249,0,5,34,5,4,28,3.86,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_12,165.90,2613,41.50,151,204,1671,475,3,12,47,16,3,32,33.18,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_13,137.96,6617,37.54,327,536,4840,1520,2,39,142,31,3,36,2.21,International,India,Wk-Batsman,Capped
+Synthetic_Player_14,170.32,1219,32.69,80,100,706,225,1,7,24,3,2,30,15.55,International,England,Wk-Batsman,Capped
+Synthetic_Player_15,145.68,1003,33.43,41,109,722,269,0,9,18,0,1,31,1.92,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_16,165.30,2160,31.54,139,179,1355,460,1,12,46,7,3,30,17.12,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_17,132.08,1004,22.50,41,103,783,276,0,4,31,5,5,29,0.40,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_18,134.30,745,21.87,33,62,558,200,0,3,28,4,3,27,0.90,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_19,133.99,2794,31.75,101,258,2110,735,2,16,55,10,7,32,0.57,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_20,139.96,1875,29.16,75,184,1404,502,1,10,43,7,5,31,1.30,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_21,140.24,733,25.98,31,70,537,191,0,4,23,3,2,29,1.01,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_22,136.10,4953,33.87,229,425,3639,1275,3,33,88,14,2,33,1.70,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_23,144.79,4040,35.83,184,335,2833,913,3,24,80,18,3,30,23.50,International,India,Wk-Batsman,Capped
+Synthetic_Player_24,132.61,2623,33.31,87,247,1990,704,2,14,51,7,12,32,0.28,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_25,151.81,3052,34.14,159,269,2020,682,1,15,63,17,5,28,24.03,International,India,Wk-Batsman,Capped
+Synthetic_Player_26,108.18,457,14.01,12,41,394,163,0,1,12,0,1,28,0.62,International,Zimbabwe,Wk-Batsman,Capped
+Synthetic_Player_27,157.88,1347,29.06,77,101,866,279,0,6,39,4,5,29,9.48,International,India,Wk-Batsman,Capped
+Synthetic_Player_28,168.26,2457,41.53,151,183,1569,412,3,11,45,14,4,33,31.93,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_29,136.90,1763,28.76,55,175,1258,459,1,10,41,6,3,34,0.13,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_30,142.48,1471,31.42,60,155,1023,390,0,11,27,2,1,32,0.26,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_31,123.18,1054,20.62,28,79,843,261,0,2,61,9,6,38,0.44,International,Netherlands,Wk-Batsman,Capped
+Synthetic_Player_32,132.15,3442,32.38,129,303,2554,867,3,16,83,16,12,35,0.24,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_33,168.89,1588,33.41,104,132,967,308,1,8,32,4,3,32,16.48,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_34,135.35,3868,31.48,163,335,2848,998,2,25,76,14,4,32,2.16,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_35,128.81,1189,22.88,35,123,894,294,0,5,45,7,5,34,0.43,International,Netherlands,Wk-Batsman,Capped
+Synthetic_Player_36,138.02,4252,31.13,215,401,3110,1175,1,26,58,6,2,36,1.33,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_37,114.57,591,24.71,23,54,479,198,0,3,13,3,1,28,0.84,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_38,117.82,574,18.06,17,50,465,171,0,2,16,2,2,29,0.74,International,England,Wk-Batsman,Capped
+Synthetic_Player_39,143.95,573,24.85,27,54,421,137,0,2,18,2,2,26,2.74,International,India,Wk-Batsman,Capped
+Synthetic_Player_40,131.78,1026,24.56,28,105,787,269,0,4,33,6,4,31,0.37,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_41,136.91,707,25.78,32,63,480,187,0,3,12,3,1,24,2.07,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_42,119.49,585,17.29,19,50,454,174,0,2,15,2,2,27,0.45,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_43,167.87,1552,30.48,105,125,949,313,0,8,40,4,3,29,13.66,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_44,157.03,2873,37.32,150,245,1881,580,3,13,58,19,3,32,31.23,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_45,169.36,1247,40.67,65,81,704,158,2,6,15,6,4,34,23.29,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_46,136.57,727,24.17,28,66,524,195,0,3,25,3,3,28,0.59,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_47,139.27,3949,29.53,187,361,2881,1032,1,24,68,10,2,35,1.00,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_48,147.98,749,25.61,37,74,512,187,0,4,15,2,1,26,4.13,International,India,Wk-Batsman,Capped
+Synthetic_Player_49,140.04,1764,35.23,68,184,1239,466,0,13,24,1,1,35,0.88,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_50,142.79,671,24.92,32,66,484,170,0,3,16,2,1,25,3.01,International,India,Wk-Batsman,Capped
+Synthetic_Player_51,162.49,1329,29.35,80,106,795,271,0,7,38,4,4,29,10.05,International,India,Wk-Batsman,Capped
+Synthetic_Player_52,129.53,551,22.03,20,52,439,161,0,2,18,2,2,27,0.99,International,India,Wk-Batsman,Capped
+Synthetic_Player_53,137.30,2725,29.08,100,254,1935,685,1,16,58,10,3,35,0.50,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_54,143.96,903,26.36,41,87,567,230,0,5,10,2,1,24,3.73,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_55,138.71,2322,29.50,87,228,1672,606,1,14,50,8,3,34,0.55,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_56,141.15,5489,35.14,269,420,3980,1136,1,29,126,31,3,40,2.78,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_57,131.26,1066,24.51,34,109,809,274,0,4,31,5,4,31,0.50,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_58,130.83,2585,27.62,91,205,1898,571,1,11,85,17,6,39,1.90,International,Netherlands,Wk-Batsman,Capped
+Synthetic_Player_59,133.82,786,21.70,32,70,631,215,0,3,27,4,3,27,0.54,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_60,135.48,1525,27.27,47,156,1088,400,1,8,38,5,3,34,0.48,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_61,154.14,1171,28.00,63,101,724,263,0,6,33,4,3,29,5.23,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_62,117.49,539,18.96,17,54,462,172,0,1,14,1,1,28,0.76,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_63,138.06,5090,34.58,225,413,3719,1274,4,31,107,18,5,31,5.47,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_64,165.07,845,28.62,50,73,551,174,0,5,24,0,2,28,12.37,International,India,Wk-Batsman,Capped
+Synthetic_Player_65,114.90,679,24.69,28,57,558,214,0,3,14,4,1,26,0.63,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_66,143.73,832,27.58,36,82,601,221,0,4,25,3,2,29,1.40,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_67,119.98,575,18.74,23,50,461,183,0,2,15,2,1,25,0.18,International,Nepal,Wk-Batsman,Uncapped
+Synthetic_Player_68,157.86,709,29.89,27,66,394,133,0,4,12,2,1,29,8.00,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_69,99.35,582,19.34,17,55,496,219,0,3,12,1,1,29,0.65,International,Nepal,Wk-Batsman,Uncapped
+Synthetic_Player_70,139.54,4943,33.00,237,404,3543,1139,1,29,98,20,2,37,1.69,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_71,165.90,994,29.14,57,85,654,204,0,5,25,0,2,28,12.71,International,India,Wk-Batsman,Capped
+Synthetic_Player_72,154.05,681,26.18,37,64,434,148,0,3,19,2,1,27,6.16,International,India,Wk-Batsman,Capped
+Synthetic_Player_73,136.34,3784,29.65,160,332,2774,959,2,23,77,15,3,34,0.91,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_74,155.17,2551,29.43,137,232,1702,631,1,16,54,7,2,30,11.58,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_75,136.08,4305,32.12,187,366,3173,1116,3,26,86,14,6,31,8.83,International,India,Wk-Batsman,Capped
+Synthetic_Player_76,125.84,675,23.76,24,67,541,176,0,3,18,3,2,31,0.56,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_77,132.76,3846,31.71,152,330,2862,980,2,19,90,19,9,35,0.28,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_78,140.12,2312,28.41,101,232,1648,621,1,14,47,6,2,33,0.07,International,Afghanistan,Wk-Batsman,Capped
+Synthetic_Player_79,92.78,178,13.87,2,8,199,111,0,1,9,0,0,33,1.19,International,Zimbabwe,Wk-Batsman,Capped
+Synthetic_Player_80,137.24,5150,34.79,243,394,3772,1067,1,26,137,35,5,40,2.49,International,India,Wk-Batsman,Uncapped
+Synthetic_Player_81,127.17,800,22.42,26,75,581,207,0,3,24,4,3,30,0.50,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_82,120.60,501,19.61,19,43,418,155,0,1,15,2,1,26,0.62,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_83,137.12,4941,36.04,236,346,3626,875,0,22,148,42,6,42,3.96,International,India,Wk-Batsman,Uncapped
+Synthetic_Player_84,131.61,2654,27.17,96,232,2016,647,1,13,71,14,4,37,1.44,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_85,135.84,707,25.65,33,74,541,191,0,4,22,2,2,29,0.89,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_86,147.92,1838,29.59,87,183,1250,483,1,12,39,5,1,31,2.79,International,Afghanistan,Wk-Batsman,Capped
+Synthetic_Player_87,122.60,527,19.95,18,47,456,164,0,2,16,2,2,27,0.62,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_88,143.59,659,23.77,30,56,448,155,0,2,21,3,2,26,3.57,International,India,Wk-Batsman,Capped
+Synthetic_Player_89,118.29,756,25.43,33,65,604,226,0,4,14,4,1,25,0.54,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_90,126.98,625,24.16,27,56,469,191,0,3,13,3,1,25,1.03,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_91,169.66,1242,31.25,77,99,764,249,0,7,30,2,3,30,15.02,International,India,Wk-Batsman,Capped
+Synthetic_Player_92,134.87,4432,32.12,194,380,3264,1153,3,29,86,15,3,32,1.79,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_93,131.61,1037,24.48,32,110,831,278,0,5,33,6,4,31,0.27,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_94,122.26,636,16.91,22,55,506,191,0,2,17,2,2,26,0.42,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_95,137.46,3862,29.00,176,350,2779,1009,2,19,78,15,8,29,14.57,International,India,Wk-Batsman,Capped
+Synthetic_Player_96,106.70,431,14.58,8,38,350,149,0,1,11,1,1,29,0.60,International,Zimbabwe,Wk-Batsman,Capped
+Synthetic_Player_97,137.59,1458,29.27,48,150,958,371,0,8,32,3,2,34,0.60,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_98,128.92,856,20.68,32,85,653,234,0,3,27,5,4,28,0.36,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_99,127.68,988,21.69,29,101,791,254,0,4,38,6,5,32,0.30,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_100,137.95,3943,30.70,179,357,2846,1050,2,25,72,11,2,32,2.00,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_101,143.47,3122,29.17,150,282,2206,788,1,16,64,11,7,28,12.73,International,India,Wk-Batsman,Capped
+Synthetic_Player_102,135.11,2333,29.27,78,215,1765,590,1,12,61,11,6,36,1.03,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_103,172.31,1752,42.42,102,117,1011,229,2,8,24,8,4,35,26.75,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_104,134.47,5570,31.30,250,468,4122,1438,5,28,141,26,10,32,6.80,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_105,134.20,1215,25.90,42,128,936,324,0,5,34,6,5,31,0.38,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_106,117.50,533,15.04,17,48,432,164,0,1,14,2,2,26,0.38,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_107,135.34,2875,30.01,102,265,2123,729,1,16,63,12,6,35,0.14,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_108,131.38,923,23.21,36,84,685,229,0,3,27,5,4,29,0.50,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_109,113.37,477,17.75,15,41,429,148,0,2,14,2,1,30,0.87,International,Zimbabwe,Wk-Batsman,Capped
+Synthetic_Player_110,131.00,4178,28.08,177,369,3209,1193,3,21,92,16,10,30,3.15,International,New Zealand,Wk-Batsman,Capped
+Synthetic_Player_111,141.23,664,24.14,31,67,479,169,0,2,14,2,1,26,2.73,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_112,116.32,534,14.42,17,51,437,172,0,1,13,1,1,26,0.36,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_113,134.57,728,24.06,31,72,537,203,0,3,22,3,2,28,0.85,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_114,149.01,3567,32.37,165,357,2406,908,5,21,56,4,1,34,11.06,International,England,Wk-Batsman,Capped
+Synthetic_Player_115,168.34,2040,35.69,131,155,1263,377,1,11,40,8,3,32,21.73,International,West Indies,Wk-Batsman,Capped
+Synthetic_Player_116,132.29,3700,30.82,154,327,2764,965,2,22,75,14,5,32,1.63,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_117,161.66,826,28.06,46,73,554,171,0,5,20,0,2,27,10.70,International,India,Wk-Batsman,Capped
+Synthetic_Player_118,133.10,3961,31.36,169,296,2991,804,0,18,111,29,5,40,2.68,International,India,Wk-Batsman,Capped
+Synthetic_Player_119,122.70,666,20.53,18,68,572,190,0,2,28,4,3,32,0.48,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_120,133.88,3700,32.27,149,297,2730,799,1,18,98,24,8,38,1.74,International,India,Wk-Batsman,Capped
+Synthetic_Player_121,132.44,679,24.97,31,64,489,195,0,3,14,3,1,25,1.57,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_122,138.87,4975,31.43,240,425,3578,1255,2,31,83,14,1,37,1.18,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_123,134.85,2632,31.02,99,246,1996,696,2,15,55,9,6,31,1.11,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_124,106.53,560,22.18,19,54,523,211,0,2,14,2,1,28,0.38,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_125,106.72,460,18.50,14,38,404,169,0,2,12,1,1,30,1.03,International,Nepal,Wk-Batsman,Capped
+Synthetic_Player_126,143.64,3273,30.23,151,301,2317,852,2,21,64,9,3,31,5.67,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_127,134.90,2360,29.24,79,226,1777,603,1,13,56,10,4,36,0.77,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_128,134.42,3135,30.21,116,273,2321,771,1,17,73,15,6,36,0.54,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_129,134.58,2285,32.24,83,214,1767,610,2,13,46,7,8,31,1.34,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_130,118.68,471,23.64,18,45,429,164,0,2,12,2,1,27,0.53,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_131,135.33,5728,48.77,226,482,4217,1376,7,43,85,8,2,33,15.67,International,India,Wk-Batsman,Capped
+Synthetic_Player_132,151.93,2948,29.91,151,257,1990,706,1,17,60,10,4,29,14.02,International,India,Wk-Batsman,Capped
+Synthetic_Player_133,152.65,1621,28.85,83,140,1034,374,0,8,42,5,4,30,5.45,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_134,154.63,743,27.90,31,73,446,157,0,4,13,1,1,27,6.03,International,India,Wk-Batsman,Capped
+Synthetic_Player_135,125.36,1062,22.03,29,96,878,288,0,3,51,7,5,36,0.45,International,Netherlands,Wk-Batsman,Capped
+Synthetic_Player_136,134.94,1157,26.04,35,120,922,316,0,6,33,5,4,31,0.19,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_137,146.43,1438,29.18,64,127,952,347,0,8,39,6,4,30,2.56,International,South Africa,Wk-Batsman,Capped
+Synthetic_Player_138,126.16,758,21.72,24,76,593,196,0,3,25,4,3,30,0.43,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_139,135.36,2501,30.62,87,241,1885,656,1,14,50,9,6,32,0.24,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_140,98.29,540,19.85,17,53,526,210,0,2,12,1,0,29,0.41,International,Nepal,Wk-Batsman,Uncapped
+Synthetic_Player_141,137.97,730,24.88,35,70,486,197,0,4,12,3,1,24,2.10,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_142,109.65,535,26.28,20,50,498,211,0,3,12,3,1,29,0.32,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_143,168.84,841,33.72,43,77,596,156,1,5,9,1,3,30,18.46,International,India,Wk-Batsman,Capped
+Synthetic_Player_144,149.03,770,26.44,35,77,512,188,1,4,13,1,1,24,6.04,Domestic,India,Wk-Batsman,Uncapped
+Synthetic_Player_145,137.28,2909,28.28,115,277,2091,758,1,17,60,10,3,34,0.28,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_146,138.94,1976,32.69,84,177,1500,513,1,11,42,6,9,30,2.52,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_147,131.29,1180,24.45,35,123,936,322,0,5,39,6,5,32,0.34,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_148,135.28,1230,26.10,42,128,975,331,0,6,35,6,5,31,0.19,International,Sri Lanka,Wk-Batsman,Capped
+Synthetic_Player_149,134.45,3934,30.56,163,345,2893,1025,2,25,80,15,4,32,1.49,International,Australia,Wk-Batsman,Capped
+Synthetic_Player_150,121.46,621,16.84,21,59,488,174,0,1,21,4,3,28,0.03,International,England,Wk-Batsman,Capped

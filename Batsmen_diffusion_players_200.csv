@@ -1,0 +1,201 @@
+Player,Batting Strike Rate,Batsmen Total Runs,Batting Average,No of Sixes,No of Fours,Balls Faced,Total career dot balls played,No of Centuries Scored,No of Half Centuries Scored,Age of the Player,Last Auction Price Sold (in Crs),Category,Country,Role,Capped or Uncapped
+Player_151,159.71,4762,30.38,233,403,1852,943,6,15,27,6.77,International,India,Batsman,Capped
+Player_152,147.59,7382,31.17,275,654,4452,1752,5,34,28,22.28,International,India,Batsman,Capped
+Player_153,152.45,2846,24.57,228,291,1565,801,2,14,30,4.29,International,South Africa,Batsman,Capped
+Player_154,144.37,2454,39.15,91,209,1343,474,1,9,33,11.25,International,Australia,Batsman,Capped
+Player_155,138.38,4496,28.16,172,272,2467,960,1,27,39,8.3,International,India,Batsman,Capped
+Player_156,164.33,4073,31.09,106,426,2751,543,4,20,26,3.02,International,England,Batsman,Capped
+Player_157,127.98,1085,28.96,32,85,419,221,2,3,31,0,International,Ireland,Batsman,Capped
+Player_158,158.18,695,25.53,46,55,681,204,1,6,23,1.75,International,Bangladesh,Batsman,Capped
+Player_159,158.48,1990,27.88,81,124,1007,398,2,6,30,17.63,Domestic,India,Batsman,Capped
+Player_160,193.69,316,28.43,13,28,169,49,0,1,18,2.96,Domestic,India,Batsman,Uncapped
+Player_161,136.48,791,35.13,35,79,529,194,1,3,26,0.75,International,Zimbabwe,Batsman,Capped
+Player_162,147.29,971,24.22,39,98,825,266,1,4,24,0.9,International,Afghanistan,Batsman,Capped
+Player_163,156.28,7828,26.47,400,930,5062,1931,6,34,35,1.83,International,England,Batsman,Capped
+Player_164,150.49,7478,37.51,457,930,5262,2390,7,66,33,19.03,International,India,Batsman,Capped
+Player_165,156.75,2456,29.78,104,179,1514,427,3,7,25,3.57,International,England,Batsman,Capped
+Player_166,132.97,4430,27.37,99,444,3423,802,2,25,34,0.73,International,Zimbabwe,Batsman,Capped
+Player_167,124.94,1883,26.94,74,263,1384,837,1,10,29,1.05,International,New Zealand,Batsman,Capped
+Player_168,164.7,695,27.03,30,61,354,122,0,2,26,4.8,International,Sri Lanka,Batsman,Capped
+Player_169,145.38,5245,30.28,237,407,2844,1114,4,26,33,2.14,International,England,Batsman,Capped
+Player_170,153.85,1500,33.77,79,134,1273,477,3,13,22,4.24,International,South Africa,Batsman,Capped
+Player_171,158.01,639,23.82,34,40,307,72,1,2,28,5,International,India,Batsman,Capped
+Player_172,146.16,5144,39.83,188,585,3486,1377,3,53,38,8.65,International,India,Batsman,Capped
+Player_173,159.2,3026,27.44,83,218,1323,949,3,16,26,4.93,International,India,Batsman,Capped
+Player_174,124,1073,32.15,10,122,1336,335,0,7,22,0,International,Afghanistan,Batsman,Uncapped
+Player_175,162.03,2323,28.51,89,266,1073,523,2,8,25,5.02,International,England,Batsman,Capped
+Player_176,165.02,1749,29.25,107,206,1258,529,2,11,25,15.08,International,India,Batsman,Capped
+Player_177,155.97,1604,23.63,52,134,627,248,0,13,34,6.82,International,Australia,Batsman,Capped
+Player_178,154.34,1179,27.4,75,153,1277,344,2,10,28,1.05,International,Australia,Batsman,Capped
+Player_179,163.23,1654,23.89,99,194,1195,415,2,9,22,1.81,International,South Africa,Batsman,Capped
+Player_180,142.03,5855,26.51,267,747,4285,1271,6,30,33,0.52,International,England,Batsman,Capped
+Player_181,145.86,6036,42.13,137,578,3631,2076,11,58,33,3.85,International,India,Batsman,Capped
+Player_182,145.94,1445,26.61,65,103,537,270,0,8,32,1.68,International,South Africa,Batsman,Capped
+Player_183,174.28,1866,28.03,56,137,941,334,0,6,26,15.13,Domestic,India,Batsman,Capped
+Player_184,156.7,1676,30.05,64,119,905,428,0,6,31,17.08,International,New Zealand,Batsman,Capped
+Player_185,231.55,313,32.79,36,34,130,47,1,1,22,7.08,Domestic,India,Batsman,Uncapped
+Player_186,132.61,1156,26.65,13,115,807,238,0,6,28,0.3,International,Sri Lanka,Batsman,Capped
+Player_187,129.98,1418,27.8,37,89,1139,401,0,5,34,0.37,International,Sri Lanka,Batsman,Capped
+Player_188,137.38,431,38.15,15,53,529,162,1,2,22,0,International,Bangladesh,Batsman,Capped
+Player_189,131.42,2986,27.22,83,375,2300,871,1,12,33,3.19,International,England,Batsman,Capped
+Player_190,132.43,3102,34.4,76,154,1411,833,1,8,29,6.17,International,India,Batsman,Capped
+Player_191,139.66,871,32.87,76,151,449,285,0,4,21,1.93,International,Zimbabwe,Batsman,Capped
+Player_192,160.74,1190,34.13,77,148,989,404,1,10,30,8.23,International,Australia,Batsman,Capped
+Player_193,148.96,3766,41.44,245,657,3667,1019,7,27,27,71.29,International,India,Batsman,Capped
+Player_194,142.27,4741,26.99,212,458,3039,1183,4,21,34,1.96,International,India,Batsman,Capped
+Player_195,140.02,5774,39.19,188,467,3769,1358,3,31,36,10.11,International,India,Batsman,Capped
+Player_196,193.36,507,31.07,33,48,258,101,1,2,18,1.35,International,India,Batsman,Uncapped
+Player_197,138.24,1638,32.15,41,120,719,259,0,7,31,0.95,International,England,Batsman,Capped
+Player_198,142.05,2979,23.98,128,244,2454,701,0,17,31,0.55,International,England,Batsman,Capped
+Player_199,150.82,21180,31.18,793,1965,12200,3772,19,106,42,2.07,International,England,Batsman,Capped
+Player_200,150.82,2379,31.58,107,243,1161,651,3,17,27,13.38,International,India,Batsman,Uncapped
+Player_201,117.67,229,19.03,7,12,249,79,0,0,21,0.39,International,Bangladesh,Batsman,Uncapped
+Player_202,153.71,3859,29.26,167,402,2294,835,2,22,39,3.24,International,Australia,Batsman,Capped
+Player_203,120.41,1885,33.14,52,267,2320,411,1,11,37,0.43,International,Afghanistan,Batsman,Capped
+Player_204,131.69,658,21.54,29,104,723,210,0,4,28,1.16,Domestic,India,Batsman,Uncapped
+Player_205,163.9,2165,32,117,208,1245,466,1,13,32,16.87,International,Australia,Batsman,Capped
+Player_206,241.24,203,30.72,19,18,63,33,1,1,18,7.95,Domestic,India,Batsman,Uncapped
+Player_207,128.82,736,19.72,23,58,474,255,1,4,26,0.67,International,South Africa,Batsman,Capped
+Player_208,124.7,665,28.71,23,66,723,266,0,4,32,0.42,International,USA,Batsman,Capped
+Player_209,166.82,529,40.39,44,65,218,163,1,5,19,3.13,International,New Zealand,Batsman,Uncapped
+Player_210,144.8,701,33.65,12,51,496,156,0,3,23,0.34,Domestic,India,Batsman,Uncapped
+Player_211,138.82,4253,34.32,95,357,1878,890,2,30,32,12.28,International,India,Batsman,Capped
+Player_212,138.2,3963,27.12,89,343,1837,705,2,10,31,1.61,International,England,Batsman,Capped
+Player_213,182.79,1383,26.89,105,172,1076,203,1,10,29,9.62,Domestic,India,Batsman,Uncapped
+Player_214,145.75,19188,34.82,489,1859,10686,2367,25,100,45,3.72,International,England,Batsman,Capped
+Player_215,141.33,861,25.78,33,81,874,255,0,4,35,2.73,International,England,Batsman,Capped
+Player_216,115.46,3871,27.75,83,224,1678,854,1,13,35,0.57,International,Zimbabwe,Batsman,Capped
+Player_217,114.61,190,19.25,7,11,168,87,0,0,24,0.35,International,Zimbabwe,Batsman,Uncapped
+Player_218,141.43,12165,34.65,417,1244,8186,2400,8,77,35,35.13,International,India,Batsman,Capped
+Player_219,153.23,1285,22.21,33,81,701,208,1,6,31,0.73,International,New Zealand,Batsman,Uncapped
+Player_220,145.61,990,25.93,41,89,559,225,0,5,27,2.96,International,India,Batsman,Uncapped
+Player_221,160.45,2271,36.79,109,213,1725,481,3,12,24,24.79,International,India,Batsman,Capped
+Player_222,142.72,5937,29,230,671,4217,1529,3,34,36,6.46,International,India,Batsman,Capped
+Player_223,153.72,2677,22.63,56,357,1879,605,1,5,27,1.72,International,England,Batsman,Capped
+Player_224,150.1,3046,30.87,146,494,1889,659,0,16,28,16.14,International,Nepal,Batsman,Capped
+Player_225,144.35,1909,26.88,63,181,971,346,1,7,30,11.23,International,India,Batsman,Capped
+Player_226,138.13,666,22.53,57,91,514,172,1,1,36,1.02,Domestic,USA,Batsman,Uncapped
+Player_227,132.17,1891,21.65,113,168,1095,463,1,9,30,0.02,International,England,Batsman,Capped
+Player_228,140.57,10405,25.58,440,873,6035,2066,4,35,32,0.46,International,England,Batsman,Capped
+Player_229,142.54,1433,26.27,69,107,1119,237,0,6,28,2.25,International,Nepal,Batsman,Capped
+Player_230,114.63,454,18.41,20,32,543,158,0,1,25,0.11,International,Afghanistan,Batsman,Capped
+Player_231,159.42,5127,29.06,226,500,2839,1312,4,25,30,1.5,International,England,Batsman,Capped
+Player_232,159.12,1501,33.13,86,128,842,309,1,5,26,11.58,International,India,Batsman,Capped
+Player_233,225,204,35.28,11,23,83,35,0,1,19,2.72,Domestic,India,Batsman,Uncapped
+Player_234,160.36,1732,29.92,81,113,856,254,0,9,29,4.15,Domestic,India,Batsman,Uncapped
+Player_235,154.01,2478,32.47,136,124,1440,390,2,12,28,4.96,International,Sri Lanka,Batsman,Capped
+Player_236,122.69,991,24.19,40,74,903,395,0,3,31,1.96,International,India,Batsman,Capped
+Player_237,153.48,1802,30.36,69,205,1150,388,0,10,26,2.68,International,Bangladesh,Batsman,Capped
+Player_238,134.68,3082,30.13,196,219,2238,613,1,10,39,8.12,Domestic,India,Batsman,Uncapped
+Player_239,151.49,2233,27.54,108,171,1209,435,0,8,25,0.91,International,Nepal,Batsman,Capped
+Player_240,178.83,660,32.13,49,53,497,149,0,3,27,37.69,International,India,Batsman,Capped
+Player_241,146.85,3462,26.06,138,194,1307,642,2,18,35,1.35,International,West Indies,Batsman,Capped
+Player_242,119.55,4058,32.34,96,487,3541,1468,2,28,36,3.63,International,Ireland,Batsman,Capped
+Player_243,131.76,2975,24.78,127,297,1794,864,1,11,31,0.53,International,Ireland,Batsman,Capped
+Player_244,149.82,2432,22.72,83,252,1352,658,1,15,29,0,International,New Zealand,Batsman,Capped
+Player_245,142.65,4132,31.34,141,274,3088,1274,3,22,31,1.26,International,New Zealand,Batsman,Capped
+Player_246,134.32,2536,27.53,89,229,1862,427,1,14,27,0.48,International,New Zealand,Batsman,Uncapped
+Player_247,148.04,9694,36.68,266,987,7098,2460,10,57,32,24.36,International,India,Batsman,Capped
+Player_248,150.73,3576,26.86,172,206,1924,468,2,9,33,2.99,International,West Indies,Batsman,Capped
+Player_249,146.81,1280,22.63,57,96,370,454,0,11,32,2.96,Domestic,India,Batsman,Uncapped
+Player_250,130.01,1425,23.31,56,171,762,308,0,7,33,1.22,International,England,Batsman,Capped
+Player_251,133.15,1414,26.55,41,169,1059,277,0,8,34,2.77,Domestic,India,Batsman,Uncapped
+Player_252,117.32,363,24.88,17,20,312,104,0,1,27,0.11,International,USA,Batsman,Capped
+Player_253,130.31,1161,24.42,56,81,764,317,0,5,31,3.68,Domestic,Afghanistan,Batsman,Capped
+Player_254,132.26,1855,31.43,51,128,1467,363,0,11,26,1.56,International,India,Batsman,Capped
+Player_255,135.92,3235,30.44,70,376,2644,713,2,21,29,1.57,International,Netherlands,Batsman,Capped
+Player_256,148.77,1727,27.91,70,220,1098,339,1,12,27,3.54,International,England,Batsman,Capped
+Player_257,128.07,849,22.46,31,51,726,219,0,5,23,2.42,International,Sri Lanka,Batsman,Capped
+Player_258,147.69,10115,31.08,171,492,4674,1388,8,33,35,1.49,International,Australia,Batsman,Capped
+Player_259,128.95,3347,27.54,79,360,2688,1386,1,17,32,2.42,International,India,Batsman,Capped
+Player_260,149.92,3577,29.47,184,319,2498,952,2,18,26,3.79,International,India,Batsman,Capped
+Player_261,153.11,1865,29.07,57,209,1281,395,0,9,29,3.42,International,Sri Lanka,Batsman,Capped
+Player_262,129.49,1962,26.23,52,228,1775,666,0,9,28,0.2,International,Sri Lanka,Batsman,Capped
+Player_263,152.38,3023,26.17,120,189,1572,397,2,11,27,1.84,International,England,Batsman,Capped
+Player_264,152.79,7895,27.14,386,527,4457,1489,7,25,31,4.8,International,England,Batsman,Capped
+Player_265,181.61,320,23.71,37,18,174,58,0,1,17,1.86,International,New Zealand,Batsman,Capped
+Player_266,156.35,756,25.92,43,61,625,138,0,2,29,2.06,International,Australia,Batsman,Capped
+Player_267,148.73,7178,31.16,183,552,3358,1120,1,32,33,7.59,International,England,Batsman,Capped
+Player_268,147,1479,26.69,84,123,1340,516,1,7,30,1.93,International,New Zealand,Batsman,Capped
+Player_269,181.3,164,34.86,8,19,66,31,2,0,17,1.57,Domestic,India,Batsman,Uncapped
+Player_270,143.41,2556,28.77,54,107,762,484,1,11,29,13.08,Domestic,India,Batsman,Uncapped
+Player_271,143.91,7621,30.64,252,1087,5913,1916,3,47,38,2.84,International,England,Batsman,Capped
+Player_272,143.01,15354,27.82,397,1234,6865,3088,6,75,41,1.8,International,England,Batsman,Capped
+Player_273,153.38,882,23.54,51,42,398,145,0,4,26,1.93,International,Sri Lanka,Batsman,Uncapped
+Player_274,157.55,3657,27.9,368,473,2828,737,3,16,27,2.74,International,England,Batsman,Capped
+Player_275,163.58,2347,34.2,148,229,1255,558,2,13,29,8.75,International,India,Batsman,Capped
+Player_276,139.38,1500,47.73,69,207,1280,470,2,14,23,12.14,Domestic,India,Batsman,Uncapped
+Player_277,149.55,1070,28.25,48,127,630,227,1,4,24,1.23,Domestic,India,Batsman,Capped
+Player_278,129.77,1738,27.05,46,182,958,372,1,7,35,2.21,International,New Zealand,Batsman,Capped
+Player_279,132.48,2011,19.36,104,165,1938,545,1,8,30,0,International,England,Batsman,Capped
+Player_280,131.93,1373,30.54,75,111,833,450,2,6,23,0.3,International,Bangladesh,Batsman,Capped
+Player_281,150.11,84833,36.94,1575,10180,41106,11712,86,464,53,1.39,International,England,Batsman,Capped
+Player_282,137.8,2529,22.34,97,183,2117,573,0,8,31,5.72,International,India,Batsman,Capped
+Player_283,137.11,2634,33.76,127,492,2736,820,3,21,33,3.68,International,Australia,Batsman,Capped
+Player_284,142.85,7765,34.11,259,490,3353,1158,5,28,31,17.42,International,India,Batsman,Capped
+Player_285,146.24,1323,28.19,10,57,752,233,0,4,19,0.69,International,Afghanistan,Batsman,Uncapped
+Player_286,148.63,6320,37.71,198,715,3254,891,3,27,35,36.35,International,India,Batsman,Capped
+Player_287,146.77,19127,32.21,479,1783,7475,3304,12,76,39,1.93,International,England,Batsman,Capped
+Player_288,134.56,1406,28.89,70,113,297,450,0,2,32,1.77,International,Australia,Batsman,Uncapped
+Player_289,148.26,2865,32.56,78,205,1072,485,1,15,24,3.11,International,Sri Lanka,Batsman,Uncapped
+Player_290,158.31,2343,30.96,111,165,1974,305,1,10,31,8.4,International,India,Batsman,Capped
+Player_291,126.76,1488,21.57,15,146,971,277,0,11,24,0,International,England,Batsman,Capped
+Player_292,120.76,536,16.83,15,27,529,146,0,3,26,0.13,International,Afghanistan,Batsman,Capped
+Player_293,121.04,746,21.52,20,87,1012,210,1,2,27,0.39,International,England,Batsman,Uncapped
+Player_294,142.13,3287,29.14,162,374,2655,1228,1,47,33,1.85,International,Ireland,Batsman,Capped
+Player_295,154.51,352,28.48,17,48,241,97,0,0,26,2.59,International,South Africa,Batsman,Uncapped
+Player_296,136.12,1421,22.53,74,121,1099,353,0,7,34,2.47,International,West Indies,Batsman,Capped
+Player_297,147.29,2454,26.19,98,279,1369,612,1,15,26,5.66,International,Afghanistan,Batsman,Capped
+Player_298,133.95,2199,32.68,44,267,988,375,0,12,37,9.43,Domestic,India,Batsman,Capped
+Player_299,159.26,1356,38.89,86,129,1147,477,2,13,29,6.46,International,India,Batsman,Capped
+Player_300,142.47,6180,35.54,269,692,3826,1186,6,30,33,1.28,International,England,Batsman,Capped
+Player_301,142.52,372,63.43,4,52,278,129,2,3,20,0.17,Domestic,India,Batsman,Uncapped
+Player_302,146.51,2320,32.73,116,225,2148,611,1,10,30,10.02,International,Australia,Batsman,Capped
+Player_303,159.7,1716,31.21,70,150,1100,324,2,7,24,10.03,International,West Indies,Batsman,Capped
+Player_304,133.17,5100,29.46,176,519,4991,1273,4,30,33,5.02,International,England,Batsman,Capped
+Player_305,139.55,5193,26.88,177,225,2643,860,3,23,31,2.37,International,England,Batsman,Capped
+Player_306,162.99,311,32.09,6,18,106,55,0,1,21,0.62,International,New Zealand,Batsman,Uncapped
+Player_307,121.09,967,63.51,11,87,597,240,2,7,20,0.38,Domestic,India,Batsman,Uncapped
+Player_308,125.49,1456,21.07,59,106,1298,359,1,6,30,0,International,England,Batsman,Capped
+Player_309,138.58,2592,30.08,93,200,1516,504,0,15,29,0.81,International,USA,Batsman,Capped
+Player_310,107.62,443,134.81,2,34,296,115,1,3,21,0.07,Domestic,India,Batsman,Uncapped
+Player_311,145.18,5050,31.53,188,479,2591,959,4,20,30,14.42,International,India,Batsman,Capped
+Player_312,139.67,1979,32.54,79,165,1713,451,1,14,34,14.31,International,India,Batsman,Capped
+Player_313,176.44,1074,30.74,105,94,682,215,1,4,25,2.86,International,New Zealand,Batsman,Capped
+Player_314,138.9,6738,31.42,191,499,2598,1696,5,31,39,2.08,International,England,Batsman,Capped
+Player_315,172.5,1208,34.24,56,100,680,209,2,8,21,14.05,International,India,Batsman,Capped
+Player_316,147.9,2460,32.43,117,244,1991,331,1,17,31,16.89,International,India,Batsman,Capped
+Player_317,150.72,6187,31.98,269,554,3357,1303,3,22,31,23.06,International,India,Batsman,Capped
+Player_318,148.08,6309,27.12,225,709,3664,1487,6,28,29,2.73,International,England,Batsman,Capped
+Player_319,134.78,12732,35.34,537,1534,12022,2316,9,73,38,2.53,International,England,Batsman,Capped
+Player_320,120.57,1021,23.04,30,58,900,438,0,5,23,0.12,International,South Africa,Batsman,Capped
+Player_321,133.82,3649,25.3,107,339,2554,989,3,21,30,1.43,International,New Zealand,Batsman,Capped
+Player_322,154.33,6127,24.27,321,803,2728,1029,6,23,27,0.7,International,England,Batsman,Capped
+Player_323,195.86,727,32.36,34,71,430,131,1,3,22,4.17,International,India,Batsman,Capped
+Player_324,149.32,2942,26.05,137,399,1776,548,2,8,30,3.79,International,New Zealand,Batsman,Capped
+Player_325,137.3,1466,25.23,47,148,685,304,1,6,29,2.58,International,South Africa,Batsman,Capped
+Player_326,133.71,1186,31.96,23,184,1038,301,0,7,24,2.02,International,India,Batsman,Uncapped
+Player_327,148.07,4581,25.78,172,358,2625,928,4,19,35,1.7,International,England,Batsman,Capped
+Player_328,145.22,2265,30.06,94,269,1625,670,4,14,26,0.51,International,Bangladesh,Batsman,Capped
+Player_329,133.34,2924,24.2,65,235,1393,845,1,19,29,0.06,International,England,Batsman,Capped
+Player_330,147.98,6550,37.94,287,862,4549,1894,4,58,38,57.31,International,India,Batsman,Capped
+Player_331,145.88,1995,23.93,68,209,1818,639,0,9,29,2.01,International,England,Batsman,Capped
+Player_332,171.3,1186,30.54,61,129,527,280,2,8,28,16.92,Domestic,India,Batsman,Uncapped
+Player_333,147.76,1625,25.26,128,216,1338,445,1,8,30,3.96,International,India,Batsman,Capped
+Player_334,180.62,327,30.82,18,48,154,87,1,1,22,2.16,Domestic,India,Batsman,Uncapped
+Player_335,154.81,1864,28.21,70,239,1483,457,1,9,25,0.03,International,New Zealand,Batsman,Capped
+Player_336,134.33,164,21.2,2,19,121,37,0,1,18,0,International,USA,Batsman,Uncapped
+Player_337,152.93,3549,30.03,166,584,4135,1172,4,29,28,7.5,International,India,Batsman,Capped
+Player_338,151.51,1749,34.71,65,113,1099,309,1,7,28,1.5,International,New Zealand,Batsman,Capped
+Player_339,143.45,4774,28.14,164,365,3655,904,4,22,35,0.52,International,England,Batsman,Capped
+Player_340,134.45,1437,27.68,62,138,872,331,0,6,36,1.68,International,Australia,Batsman,Capped
+Player_341,126.02,1916,23.12,78,135,432,486,1,5,27,0,International,Afghanistan,Batsman,Uncapped
+Player_342,154.76,888,34.46,60,172,576,254,0,5,28,15.66,International,India,Batsman,Capped
+Player_343,139.62,2488,27.71,56,198,1642,543,0,9,24,0,International,Sri Lanka,Batsman,Capped
+Player_344,143.14,4493,30.49,184,426,2342,649,2,20,29,5.96,International,India,Batsman,Capped
+Player_345,141.94,3272,35.48,138,425,2988,837,1,21,25,4.36,International,India,Batsman,Capped
+Player_346,197.16,866,34.68,39,94,344,136,2,3,26,10.15,International,Australia,Batsman,Capped
+Player_347,132.45,1880,34.96,75,199,988,495,0,11,34,5.49,International,India,Batsman,Uncapped
+Player_348,146.66,1151,24.67,55,71,798,308,1,4,34,4.79,International,West Indies,Batsman,Capped
+Player_349,147.57,7088,41.7,124,791,5123,1055,24,36,31,1.69,International,England,Batsman,Capped
+Player_350,132.4,645,25.07,20,52,311,139,0,2,29,2.81,Domestic,India,Batsman,Uncapped

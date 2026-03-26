@@ -1,0 +1,201 @@
+Player,Runs Scored,Batting Strike Rate,Batting Average,No of Sixes,No of Fours,Balls Faced,Total career dot balls played,No of Centuries Scored,No of Half Centuries Scored,Wickets Taken,3 Wicket Hauls,5 Wicket Hauls,Bowling Strike Rate,Bowling Economy,Bowling Average,Runs Conceded,Sixes Conceded,Fours Conceded,Dot Balls Bowled,Maidens Bowled,Age of the Player,Last Auction Price Sold (in Crs),Category,Country,Role,Capped/Uncapped
+Diff_Player_1,663,116.51,12.50,35,41,461,197,0,1,86,5,0,3.76,7.33,31.23,2567,94,95,568,2,31,2.21,International,India,Spin-All Rounder,Capped
+Diff_Player_2,1,101.85,8.02,0,0,1,0,0,0,2,1,0,6.62,6.13,16.65,36,0,1,14,0,27,0.00,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_3,284,140.43,18.48,19,32,395,106,0,2,50,3,0,5.31,7.33,28.53,1356,45,71,373,2,34,0.39,International,Netherlands,Fast-All Rounder,Capped
+Diff_Player_4,2383,133.18,24.52,65,124,1266,579,0,4,120,7,0,4.72,7.28,31.50,2666,178,273,548,2,34,5.27,International,India,Spin-All Rounder,Capped
+Diff_Player_5,1308,153.20,27.87,73,82,1053,315,0,3,41,2,0,4.04,8.09,38.13,2175,100,156,536,1,30,23.00,International,India,Spin-All Rounder,Capped
+Diff_Player_6,258,106.52,21.71,13,15,219,112,0,1,0,0,0,1.17,11.25,118.95,151,15,4,20,0,20,5.35,International,India,Spin-All Rounder,Capped
+Diff_Player_7,139,131.98,14.09,3,8,72,41,0,0,11,1,0,4.11,7.23,30.04,337,20,17,72,0,27,0.00,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_8,105,134.63,12.59,4,5,38,22,0,0,13,1,0,4.76,8.50,28.04,237,20,38,54,0,25,0.00,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_9,107,127.28,11.92,7,4,33,33,0,0,30,2,0,5.50,7.34,20.13,1346,41,77,368,1,29,0.09,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_10,598,138.79,22.04,37,33,247,217,0,0,172,45,10,7.84,9.29,21.83,6338,113,204,646,2,31,0.59,International,England,Fast-All Rounder,Capped
+Diff_Player_11,1144,148.96,18.43,96,99,841,353,0,1,67,5,0,6.04,7.54,26.35,3048,84,210,761,5,28,1.71,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_12,86,117.24,15.16,6,4,63,51,0,0,14,1,0,3.68,8.39,40.79,456,45,29,60,0,32,0.00,International,India,Fast-All Rounder,Capped
+Diff_Player_13,216,144.25,13.42,16,13,90,46,0,1,58,6,0,6.56,8.36,21.64,1115,31,101,194,1,27,0.84,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_14,2428,184.73,26.82,186,312,1828,1178,0,11,131,6,0,5.29,8.44,26.07,2413,91,161,327,1,34,1.31,International,Australia,Fast-All Rounder,Capped
+Diff_Player_15,347,120.75,24.60,18,39,424,186,0,2,7,1,0,3.08,9.61,51.70,446,25,28,68,0,24,3.85,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_16,35,122.30,5.73,2,1,31,19,0,0,35,1,0,4.37,6.67,21.03,1445,22,65,260,2,34,0.00,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_17,89,139.31,13.51,2,8,46,32,0,0,38,1,0,5.77,7.50,21.32,1353,36,63,231,1,28,0.00,Domestic,Ireland,Fast-All Rounder,Capped
+Diff_Player_18,148,128.30,16.34,7,6,16,38,0,0,86,5,5,6.46,7.36,20.38,1805,49,89,562,3,33,0.01,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_19,260,125.11,20.38,12,31,161,106,0,1,17,1,0,4.64,8.42,30.36,419,19,13,71,0,27,0.13,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_20,221,113.91,7.28,10,4,275,63,0,0,66,5,0,3.90,6.88,24.23,2993,165,216,868,2,38,4.34,International,India,Spin-All Rounder,Uncapped
+Diff_Player_21,29,123.86,16.41,1,1,33,10,0,0,0,0,0,4.79,7.17,27.08,50,1,1,12,0,26,0.00,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_22,726,133.93,23.88,28,37,162,152,0,1,122,17,6,7.09,7.70,19.02,4471,141,250,600,8,32,1.02,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_23,125,114.49,16.74,4,7,98,68,0,0,3,0,0,3.22,7.80,46.14,349,16,16,77,0,29,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_24,1521,116.22,20.41,57,43,1311,286,0,0,83,5,1,3.47,7.72,36.24,4134,103,131,1033,2,38,2.42,International,New Zealand,Fast-All Rounder,Capped
+Diff_Player_25,1370,126.73,26.87,90,88,685,298,1,5,7,1,0,3.45,9.21,52.68,728,18,80,73,0,32,6.81,Domestic,New Zealand,Fast-All Rounder,Capped
+Diff_Player_26,157,115.26,15.02,10,10,128,42,0,1,18,2,0,5.64,8.38,25.56,692,14,19,122,0,31,0.26,International,Sri Lanka,Fast-All Rounder,Capped
+Diff_Player_27,792,111.39,27.48,25,79,532,245,0,5,2,0,0,2.46,10.23,82.50,175,15,11,36,0,25,5.49,International,India,Fast-All Rounder,Capped
+Diff_Player_28,15,115.75,8.51,1,0,0,3,0,0,429,57,548,11.23,5.99,8.63,6357,372,201,1552,23,43,0.00,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_29,134,120.82,15.31,5,7,70,31,0,1,7,1,0,3.81,8.57,38.25,282,12,19,57,0,27,0.06,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_30,1561,120.82,21.67,104,132,1312,582,0,5,187,6,0,4.41,6.81,23.02,4381,251,220,1611,3,37,2.59,International,India,Spin-All Rounder,Capped
+Diff_Player_31,1106,125.86,23.20,71,81,848,388,0,9,0,0,0,1.69,7.93,76.30,45,4,2,13,0,23,0.91,International,South Africa,Spin-All Rounder,Capped
+Diff_Player_32,0,163.66,7.51,0,0,0,0,0,0,0,0,0,81.55,8.71,0.82,0,0,0,0,0,24,3.98,International,India,Fast-All Rounder,Capped
+Diff_Player_33,1462,133.02,19.66,72,137,1845,471,0,3,66,5,0,4.86,7.80,27.19,2423,125,179,664,3,34,2.05,International,South Africa,Fast-All Rounder,Capped
+Diff_Player_34,1716,119.97,23.36,54,94,1501,430,0,6,36,3,0,4.12,8.65,31.88,1191,41,73,181,0,33,0.64,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_35,467,111.25,42.96,43,60,752,261,3,8,0,0,0,4.47,14.88,56.78,3,0,0,0,0,27,23.18,Domestic,India,Fast-All Rounder,Uncapped
+Diff_Player_36,10,109.97,14.24,0,0,12,5,0,0,0,0,0,4.90,5.74,21.72,17,0,0,4,0,25,0.00,International,Netherlands,Spin All Rounder,Capped
+Diff_Player_37,981,124.99,25.77,66,85,842,337,0,5,1,0,0,1.65,10.19,80.01,136,13,12,19,0,24,6.05,International,India,Spin-All Rounder,Capped
+Diff_Player_38,6,91.28,12.02,0,0,7,2,0,0,0,0,0,5.04,6.06,27.97,75,1,1,17,0,29,0.00,Domestic,Netherlands,Spin All Rounder,Capped
+Diff_Player_39,23,118.06,12.61,0,1,10,4,0,0,7,0,0,7.97,7.70,18.73,161,3,8,27,0,29,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_40,1590,148.45,34.21,134,248,1624,738,2,18,11,0,0,4.57,9.82,38.19,467,27,36,175,0,29,6.88,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_41,1012,122.42,12.50,45,20,1022,424,0,1,78,4,1,2.71,7.31,33.66,4593,248,199,1223,1,39,22.67,International,India,Spin-All Rounder,Capped
+Diff_Player_42,289,115.27,12.06,11,1,3,78,0,0,199,13,31,5.87,6.87,20.22,6704,289,281,1877,6,39,1.15,International,England,Spin-All Rounder,Capped
+Diff_Player_43,23,129.85,13.51,2,1,18,10,0,0,4,0,0,7.28,7.81,22.15,79,4,3,19,0,27,0.07,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_44,1107,119.55,22.37,52,107,536,268,0,4,65,12,1,6.18,8.04,23.75,2596,87,85,518,1,35,0.38,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_45,238,117.35,14.19,10,9,160,111,0,0,39,4,0,3.43,7.51,33.44,1527,80,87,506,0,33,1.78,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_46,706,116.59,29.35,59,57,573,262,0,9,0,0,0,0.32,11.37,251.45,19,1,1,2,0,18,13.67,International,India,Spin-All Rounder,Capped
+Diff_Player_47,543,112.97,23.75,26,19,304,159,0,1,0,0,0,0.21,11.88,225.90,76,4,2,5,0,16,37.99,International,India,Spin-All Rounder,Capped
+Diff_Player_48,1231,150.75,23.14,53,91,724,389,0,1,92,17,1,6.36,9.09,21.59,3129,158,215,977,2,30,0.34,International,Netherlands,Fast-All Rounder,Capped
+Diff_Player_49,241,143.56,37.16,13,23,181,75,1,1,3,0,0,3.73,10.98,54.76,138,6,11,28,0,23,22.39,International,India,Fast-All Rounder,Capped
+Diff_Player_50,303,125.56,14.26,15,8,0,55,0,0,1078,280,1450,11.06,6.76,9.99,26183,502,514,5680,39,34,0.52,International,England,Fast-All Rounder,Capped
+Diff_Player_51,10,105.77,7.96,0,0,9,4,0,0,6,0,0,5.68,6.64,18.95,133,2,9,42,0,28,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_52,809,155.12,26.29,51,63,443,288,0,2,15,1,0,3.13,9.33,40.64,941,37,42,206,1,23,2.70,International,India,Fast-All Rounder,Capped
+Diff_Player_53,1094,126.96,21.13,54,70,528,382,1,2,33,3,0,3.80,8.94,30.10,2403,75,91,390,1,30,6.75,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_54,14,141.45,16.24,1,0,20,6,0,0,0,0,0,10.62,7.71,12.75,8,0,0,1,0,31,0.37,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_55,441,123.27,12.94,24,25,188,118,0,2,132,8,0,4.47,7.02,28.67,3167,124,191,767,5,36,0.74,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_56,784,124.98,28.20,66,112,784,256,0,7,1,0,0,1.86,9.22,84.00,80,6,10,36,0,23,6.43,International,India,Spin-All Rounder,Capped
+Diff_Player_57,230,126.59,25.98,18,17,138,87,0,1,0,0,0,1.04,12.32,153.88,55,8,2,8,0,17,18.86,International,India,Spin-All Rounder,Capped
+Diff_Player_58,1507,144.60,20.40,101,115,1236,514,0,3,70,4,0,4.43,7.71,36.82,3315,205,145,566,3,32,6.22,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_59,7,150.62,8.51,1,0,2,1,0,0,4,2,0,17.10,7.55,6.99,20,0,1,3,0,26,0.54,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_60,338,130.98,24.70,16,35,298,109,0,0,32,1,0,5.56,10.03,38.26,1746,58,138,262,2,25,0.42,International,India,Fast-All Rounder,Capped
+Diff_Player_61,1162,136.66,20.01,61,117,1311,549,0,2,108,9,1,5.11,7.79,24.42,3406,119,230,600,5,31,2.35,International,India,Fast-All Rounder,Capped
+Diff_Player_62,17,115.36,8.95,1,0,12,9,0,0,5,0,0,5.35,5.78,20.33,84,1,6,50,0,35,0.00,International,Netherlands,Spin-All Rounder,Capped
+Diff_Player_63,53,109.90,11.42,4,0,56,32,0,0,13,0,1,3.08,6.90,37.24,689,26,24,128,0,32,0.01,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_64,521,136.54,15.61,28,24,227,98,0,0,172,23,2,6.22,9.24,28.47,4901,165,543,937,3,33,0.88,International,England,Fast-All Rounder,Capped
+Diff_Player_65,405,148.51,22.84,17,18,344,78,0,1,9,1,0,6.65,10.28,26.72,284,12,20,40,0,29,3.07,International,India,Fast-All Rounder,Capped
+Diff_Player_66,200,109.45,21.20,7,18,145,83,0,0,0,0,0,2.15,9.03,72.67,148,9,8,33,0,24,0.81,Domestic,India,Fast-All Rounder,Capped
+Diff_Player_67,738,142.39,20.22,30,48,498,218,0,1,51,2,0,3.93,8.32,35.09,1369,75,65,348,0,32,2.58,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_68,175,118.11,21.36,11,16,260,76,0,0,16,0,0,3.34,8.85,40.83,758,14,26,91,1,30,0.46,International,England,Fast-All Rounder,Capped
+Diff_Player_69,218,119.60,12.58,15,14,132,97,0,0,34,6,0,5.10,8.18,25.82,1431,57,207,284,1,29,0.00,International,India,Fast-All Rounder,Capped
+Diff_Player_70,46,111.74,19.13,2,2,48,16,0,0,0,0,0,2.92,7.89,48.82,37,1,2,13,0,25,0.00,International,Ireland,Spin All Rounder,Capped
+Diff_Player_71,5592,143.47,34.70,370,428,3780,1495,17,49,13,1,0,5.03,7.76,21.13,424,20,24,205,0,32,5.21,International,Australia,Spin-All Rounder,Capped
+Diff_Player_72,1517,111.88,21.98,94,136,1854,724,0,7,21,2,0,4.17,7.41,37.25,865,50,54,228,2,33,1.16,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_73,454,135.94,15.94,18,29,271,78,0,0,58,1,0,4.64,8.15,26.69,2759,88,146,512,2,26,2.73,International,Afghanistan,Fast-All Rounder,Capped
+Diff_Player_74,0,149.47,8.71,0,0,0,0,0,0,0,0,0,88.65,8.25,0.97,0,0,0,0,0,22,3.02,International,India,Fast-All Rounder,Capped
+Diff_Player_75,1299,234.39,29.13,42,96,1340,447,0,5,21,2,0,4.06,9.41,41.98,400,27,41,171,0,29,5.74,International,South Africa,Fast-All Rounder,Capped
+Diff_Player_76,1,92.82,7.01,0,0,0,0,0,0,4,2,5,10.58,5.71,8.98,73,2,1,18,0,36,0.00,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_77,713,142.55,20.11,34,40,383,185,0,2,59,6,1,4.81,7.72,28.33,2288,124,80,1219,6,29,8.93,International,South Africa,Fast-All Rounder,Capped
+Diff_Player_78,166,107.74,21.37,6,14,170,78,0,1,0,0,0,2.46,7.37,52.72,28,1,1,5,0,26,0.00,International,Sri Lanka,Spin All Rounder,Capped
+Diff_Player_79,0,75.42,0.00,0,0,0,0,0,0,0,0,0,34.24,2.36,0.55,0,0,0,0,0,26,0.00,International,Netherlands,Spin All Rounder,Capped
+Diff_Player_80,253,124.50,12.20,22,11,144,63,0,1,78,5,0,5.36,8.04,28.35,1784,77,109,364,2,27,0.32,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_81,962,158.54,22.46,31,75,479,216,0,2,7,1,0,2.86,9.77,57.33,369,35,43,72,0,27,7.55,International,England,Spin-All Rounder,Capped
+Diff_Player_82,171,120.87,11.59,7,9,117,43,0,0,40,3,0,4.52,7.53,28.75,998,48,87,394,0,30,0.98,International,India,Fast-All Rounder,Capped
+Diff_Player_83,25,141.92,15.23,2,0,22,9,0,0,2,1,0,17.45,8.76,8.42,21,0,1,1,0,27,1.15,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_84,105,109.25,15.81,7,3,62,46,0,0,46,1,1,5.69,7.94,23.82,1665,35,59,302,1,31,0.30,International,India,Fast-All Rounder,Capped
+Diff_Player_85,197,102.88,15.07,8,6,92,52,0,0,37,4,0,4.23,7.18,26.59,1296,51,76,449,0,30,3.02,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_86,830,129.24,27.12,58,87,621,297,0,2,71,5,1,7.04,9.15,23.54,2976,113,188,542,1,29,1.63,International,England,Fast-All Rounder,Capped
+Diff_Player_87,285,121.16,15.82,15,17,130,96,0,0,36,2,1,3.93,8.61,34.33,1350,55,105,396,2,32,0.00,International,England,Fast-All Rounder,Capped
+Diff_Player_88,1565,150.90,21.15,62,77,677,235,0,3,177,18,2,6.43,8.46,26.72,4538,165,250,759,6,30,0.27,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_89,662,161.30,24.10,45,83,516,195,0,3,54,0,0,4.32,9.76,45.57,1123,53,105,204,1,26,2.20,International,Netherlands,Fast-All Rounder,Capped
+Diff_Player_90,566,118.74,26.13,38,43,415,161,0,3,1,0,0,2.46,10.61,77.81,138,10,9,41,0,24,4.07,International,India,Spin-All Rounder,Capped
+Diff_Player_91,10,114.79,9.18,1,0,8,5,0,0,6,1,0,5.63,6.69,20.91,108,3,6,38,0,28,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_92,1550,141.24,22.27,112,53,1149,375,0,2,24,1,0,2.50,8.93,62.42,1222,73,85,428,0,28,48.96,International,India,Spin-All Rounder,Capped
+Diff_Player_93,745,150.45,29.67,46,51,459,221,0,8,9,0,0,2.55,11.04,81.18,373,19,20,52,0,25,19.43,International,India,Fast-All Rounder,Capped
+Diff_Player_94,473,99.73,13.44,20,32,522,160,0,0,46,3,0,3.45,7.77,41.25,3976,114,228,304,1,38,1.69,International,India,Spin-All Rounder,Capped
+Diff_Player_95,207,123.88,14.83,6,13,151,105,0,0,19,1,0,3.58,8.23,37.98,504,19,27,111,0,29,0.49,International,India,Spin-All Rounder,Capped
+Diff_Player_96,918,157.81,16.68,55,48,891,193,0,1,128,15,0,4.78,8.24,27.98,4290,252,396,825,3,27,5.46,International,Afghanistan,Fast-All Rounder,Capped
+Diff_Player_97,228,128.20,21.01,13,19,123,91,0,1,20,2,0,5.10,7.62,27.32,564,20,60,180,1,29,0.56,International,India,Fast-All Rounder,Capped
+Diff_Player_98,81,115.83,11.48,10,3,14,30,0,0,42,3,1,6.28,7.40,18.20,645,29,37,179,1,30,0.00,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_99,868,119.90,15.40,42,66,989,293,0,3,102,5,0,5.20,9.07,25.72,2700,136,246,809,1,29,0.00,International,England,Fast-All Rounder,Capped
+Diff_Player_100,650,110.13,20.33,28,61,366,197,0,0,28,2,0,3.17,8.13,43.15,710,52,76,362,1,31,0.68,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_101,168,120.49,9.27,6,3,38,53,0,0,58,6,1,4.33,8.09,30.08,3551,93,215,716,1,37,1.03,International,India,Spin-All Rounder,Capped
+Diff_Player_102,0,111.18,5.94,0,0,0,0,0,0,1,0,0,9.19,6.01,10.33,17,0,0,3,0,30,0.00,International,Netherlands,Spin-All Rounder,Capped
+Diff_Player_103,620,114.91,24.31,49,35,462,133,0,2,0,0,0,0.99,11.84,133.91,165,13,12,29,0,20,31.44,International,India,Fast-All Rounder,Capped
+Diff_Player_104,129,111.81,14.08,5,7,160,51,0,0,6,0,0,3.27,8.58,49.10,370,17,13,77,0,26,0.60,International,India,Spin-All Rounder,Capped
+Diff_Player_105,1626,167.59,29.11,103,135,1167,465,0,12,17,0,0,3.84,9.57,47.14,477,29,25,100,0,31,5.01,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_106,159,113.16,19.22,8,9,187,62,0,0,2,1,0,4.75,7.42,26.81,103,2,3,18,0,26,0.28,International,West Indies,Spin All Rounder,Capped
+Diff_Player_107,0,121.75,7.60,0,0,0,0,0,0,0,0,0,23.20,7.34,4.06,2,0,0,0,0,26,0.63,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_108,1170,118.02,31.81,51,88,1036,235,0,8,8,0,0,4.76,8.46,29.62,164,8,14,52,0,28,0.32,International,USA,Fast-All Rounder,Capped
+Diff_Player_109,738,139.23,16.36,40,22,190,274,0,1,122,9,4,5.58,7.59,24.92,5991,170,277,672,6,36,1.72,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_110,544,136.58,17.10,51,41,537,162,0,1,34,2,0,3.89,9.08,38.00,1776,77,114,451,0,34,2.86,International,India,Fast-All Rounder,Capped
+Diff_Player_111,619,111.21,25.15,27,65,586,229,0,2,4,0,0,2.15,9.97,78.13,288,18,17,50,0,25,3.32,International,India,Spin-All Rounder,Capped
+Diff_Player_112,162,120.65,22.97,8,9,125,40,0,0,5,0,0,6.42,8.77,31.37,138,6,13,26,0,26,0.60,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_113,1339,140.92,36.87,85,149,1306,665,0,9,18,2,0,5.71,8.89,28.39,591,36,47,111,0,29,0.00,International,South Africa,Fast-All Rounder,Capped
+Diff_Player_114,15,104.75,11.26,1,0,24,6,0,0,3,0,0,5.56,7.37,20.67,90,2,6,23,0,26,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_115,0,60.24,0.00,0,0,0,0,0,0,0,0,0,26.98,1.71,0.34,0,0,0,0,0,34,0.00,International,Netherlands,Spin All Rounder,Capped
+Diff_Player_116,229,120.33,18.29,11,23,297,105,0,1,15,1,0,4.18,7.76,28.21,472,17,29,138,1,23,0.00,International,Bangladesh,Fast-All Rounder,Capped
+Diff_Player_117,43,127.45,8.25,6,0,4,17,0,0,70,3,4,6.28,6.98,20.59,641,37,32,235,1,38,0.30,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_118,3,98.78,7.74,0,0,1,0,0,0,0,0,0,5.06,5.42,18.43,20,0,0,4,0,25,0.00,International,Ireland,Spin All Rounder,Capped
+Diff_Player_119,0,55.07,0.00,0,0,0,0,0,0,0,0,0,67.02,1.18,0.00,0,0,0,0,0,31,0.00,International,Netherlands,Spin All Rounder,Capped
+Diff_Player_120,104,112.67,15.13,5,2,96,22,0,0,16,1,0,4.58,6.86,27.39,375,8,26,61,1,35,0.00,International,Netherlands,Fast-All Rounder,Capped
+Diff_Player_121,29,115.11,23.45,2,2,29,11,0,0,0,0,0,4.21,7.98,42.88,4,0,0,0,0,23,0.00,International,India,Spin All Rounder,Capped
+Diff_Player_122,525,116.23,22.55,14,57,676,194,0,0,39,6,0,5.41,8.71,30.32,1969,89,151,342,2,28,1.17,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_123,588,157.20,16.20,40,32,278,93,0,2,78,4,0,6.69,8.33,23.53,972,91,151,614,2,31,2.72,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_124,81,116.76,20.12,4,11,145,27,0,0,2,0,0,3.79,10.71,54.07,108,7,6,22,0,23,1.50,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_125,12,127.45,11.95,1,0,3,5,0,0,8,0,1,5.05,6.52,20.81,183,4,4,24,0,33,0.00,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_126,192,130.74,16.00,14,10,4,45,0,0,169,23,17,7.98,7.87,17.02,3472,142,187,934,5,32,0.00,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_127,573,122.04,28.58,31,82,516,239,0,9,0,0,0,1.31,13.26,130.19,46,7,4,5,0,22,15.62,Domestic,India,Spin-All Rounder,Capped
+Diff_Player_128,0,107.48,3.84,0,0,0,0,0,0,0,0,0,17.20,6.01,5.65,3,0,0,0,0,30,0.00,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_129,440,135.16,17.55,18,41,348,145,0,2,15,0,0,3.27,8.44,44.49,470,31,32,177,0,28,0.51,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_130,506,118.91,25.91,25,28,263,122,0,2,2,0,0,2.03,10.75,77.01,174,16,11,28,0,23,3.20,International,India,Spin-All Rounder,Capped
+Diff_Player_131,49,126.28,13.90,3,3,31,13,0,0,9,1,0,7.28,8.91,20.22,157,17,17,38,0,26,0.00,International,India,Fast-All Rounder,Capped
+Diff_Player_132,13,111.10,14.94,0,0,17,5,0,0,0,0,0,3.12,7.46,46.90,14,0,0,4,0,21,0.00,International,India,Spin All Rounder,Capped
+Diff_Player_133,269,122.22,19.09,18,30,204,99,0,1,0,0,0,0.75,12.36,192.11,144,10,5,13,0,18,13.35,International,India,Spin-All Rounder,Capped
+Diff_Player_134,17,104.68,12.83,0,0,15,7,0,0,4,0,0,4.24,7.58,29.11,187,3,5,44,0,25,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_135,68,152.46,19.13,13,1,80,41,0,0,1,1,0,27.41,9.90,6.33,8,0,0,0,0,31,7.57,International,India,Fast-All Rounder,Capped
+Diff_Player_136,83,129.14,10.90,7,4,41,19,0,0,45,2,0,5.61,8.04,24.37,1601,54,94,224,2,35,0.40,International,India,Spin-All Rounder,Capped
+Diff_Player_137,395,111.36,17.80,19,9,260,211,0,0,38,2,1,4.48,7.41,25.00,2019,87,55,597,2,32,0.95,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_138,1626,149.75,22.17,92,139,1310,405,0,5,64,4,0,3.99,8.50,38.47,2595,125,142,323,1,35,33.51,International,India,Fast-All Rounder,Capped
+Diff_Player_139,1097,136.04,27.03,71,110,780,311,1,5,18,0,0,4.08,9.10,48.02,786,27,35,161,1,29,2.42,International,New Zealand,Fast-All Rounder,Capped
+Diff_Player_140,406,113.52,16.78,12,15,279,104,0,0,16,1,0,2.64,8.59,46.65,1342,62,52,355,0,32,2.77,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_141,463,126.53,29.09,25,38,283,139,0,3,14,0,0,5.46,10.55,41.33,560,27,21,80,0,26,3.77,International,India,Fast-All Rounder,Capped
+Diff_Player_142,85,116.24,11.93,6,2,19,28,0,0,22,4,1,4.94,7.24,24.38,1034,37,49,262,1,32,0.00,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_143,552,136.42,19.98,32,35,462,115,0,0,38,3,0,4.71,9.85,45.73,1598,75,176,378,0,32,2.52,Domestic,India,Spin-All Rounder,Capped
+Diff_Player_144,234,134.24,22.81,8,36,235,62,0,1,9,1,0,4.40,7.89,31.68,360,11,37,53,0,26,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_145,347,119.33,16.61,13,15,254,90,0,0,9,1,0,2.41,8.91,57.00,760,65,60,93,0,30,4.08,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_146,32,130.38,11.64,3,0,29,13,0,0,2,1,0,13.52,7.38,9.92,34,0,1,4,0,29,0.64,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_147,2049,115.99,13.85,56,47,1382,416,0,1,236,5,1,3.61,6.48,22.03,5824,334,337,3525,11,42,9.72,International,India,Spin-All Rounder,Capped
+Diff_Player_148,761,117.87,19.40,36,64,607,316,0,4,3,0,0,2.64,8.56,59.54,266,8,10,60,0,28,0.91,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_149,2078,134.09,17.70,164,62,1109,516,0,0,79,4,1,3.07,7.40,46.59,3824,335,298,627,1,33,64.14,International,India,Spin-All Rounder,Uncapped
+Diff_Player_150,746,135.37,11.97,42,17,443,141,0,1,86,2,1,4.35,6.77,32.36,3119,148,288,744,2,36,4.12,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_151,1820,123.60,24.20,83,187,1918,626,0,6,24,1,0,4.04,8.85,30.28,1065,44,35,158,0,34,1.66,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_152,464,112.40,19.09,24,30,401,179,0,2,15,0,0,3.39,8.74,45.36,998,65,74,172,0,32,0.97,Domestic,India,Fast-All Rounder,Uncapped
+Diff_Player_153,0,125.84,6.63,0,0,0,0,0,0,0,0,0,16.36,6.32,7.00,6,0,0,1,0,28,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_154,116,109.13,14.46,5,6,55,38,0,0,6,0,0,4.16,8.76,40.22,421,16,31,172,0,27,0.39,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_155,237,121.07,18.95,19,19,238,170,0,0,25,3,0,4.88,7.48,26.21,588,44,76,273,1,29,0.00,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_156,281,141.87,20.90,14,22,166,93,0,1,16,0,0,5.75,7.68,25.42,933,30,38,246,1,25,0.16,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_157,12,114.61,11.71,1,0,10,5,0,0,2,1,0,6.79,7.26,18.88,55,2,4,9,0,28,0.00,International,Ireland,Fast-All Rounder,Capped
+Diff_Player_158,15,127.38,6.32,1,0,4,7,0,0,27,2,0,5.61,6.71,18.93,292,10,48,84,0,34,0.00,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_159,746,121.39,29.54,71,69,943,329,0,4,59,4,0,4.80,9.15,35.11,1079,68,116,275,0,29,0.78,International,England,Fast-All Rounder,Capped
+Diff_Player_160,278,122.52,20.81,20,23,184,123,0,1,11,1,0,3.93,8.53,35.89,326,21,30,101,0,25,0.44,Domestic,West Indies,Fast-All Rounder,Capped
+Diff_Player_161,609,141.25,21.85,57,77,602,439,0,2,48,1,0,3.36,8.85,42.37,1256,80,103,310,1,28,5.13,Domestic,South Africa,Fast-All Rounder,Capped
+Diff_Player_162,1331,122.17,19.89,43,66,925,371,0,2,60,7,0,3.78,7.90,32.59,4121,196,374,1104,4,34,4.90,International,India,Spin-All Rounder,Capped
+Diff_Player_163,23,109.27,6.58,1,0,15,9,0,0,33,3,0,4.44,6.48,22.19,903,23,62,206,1,33,0.86,International,India,Spin-All Rounder,Capped
+Diff_Player_164,814,122.48,21.07,28,40,555,247,0,1,37,4,0,3.43,7.97,33.52,1770,73,95,281,0,32,1.22,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_165,0,79.53,0.00,0,0,0,0,0,0,0,0,0,26.49,3.07,1.16,0,0,0,0,0,29,0.00,International,Netherlands,Spin All Rounder,Capped
+Diff_Player_166,503,117.25,14.22,26,29,343,216,0,1,22,2,0,2.84,7.99,48.05,1809,81,110,301,0,28,8.12,International,India,Spin-All Rounder,Capped
+Diff_Player_167,272,134.42,14.65,16,6,16,48,0,0,113,8,4,5.47,7.54,22.95,2760,95,120,516,4,33,0.99,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_168,62,110.90,11.20,3,2,31,20,0,0,13,1,0,4.21,6.92,26.83,468,6,20,150,0,27,0.00,International,Sri Lanka,Spin-All Rounder,Capped
+Diff_Player_169,366,130.14,15.44,24,28,386,134,0,0,83,2,0,4.27,7.39,31.60,2988,77,106,567,4,33,1.62,International,India,Spin-All Rounder,Capped
+Diff_Player_170,354,132.13,26.20,21,17,267,73,0,2,4,0,0,3.94,7.65,33.71,179,3,7,34,0,27,0.55,International,England,Spin All Rounder,Capped
+Diff_Player_171,0,105.59,4.31,0,0,0,0,0,0,3,1,1,8.80,6.06,10.56,74,1,1,17,0,35,0.00,International,Netherlands,Spin-All Rounder,Capped
+Diff_Player_172,629,140.06,19.11,48,82,229,284,0,1,72,5,1,4.97,8.18,25.78,1576,109,119,318,2,32,0.58,International,England,Fast-All Rounder,Capped
+Diff_Player_173,12,109.30,10.42,0,0,5,5,0,0,11,0,0,4.44,6.69,22.35,486,7,10,85,0,27,0.00,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_174,442,119.62,18.11,18,22,285,123,0,1,2,0,0,2.41,8.86,68.17,117,10,5,29,0,25,2.50,International,India,Spin-All Rounder,Capped
+Diff_Player_175,1304,121.21,13.48,35,58,625,365,0,1,58,2,0,3.63,7.21,30.34,2292,101,115,720,2,37,1.80,International,New Zealand,Spin-All Rounder,Capped
+Diff_Player_176,1073,120.65,28.26,86,179,1606,666,0,6,11,2,0,3.41,7.48,47.71,386,25,27,70,0,30,1.44,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_177,749,125.67,24.98,38,40,584,182,0,2,4,0,0,2.90,9.46,53.25,281,11,9,64,0,26,1.37,International,West Indies,Fast-All Rounder,Capped
+Diff_Player_178,644,130.11,28.32,19,44,344,114,0,1,10,0,0,3.88,10.25,48.49,634,27,17,65,0,30,1.44,International,India,Fast-All Rounder,Capped
+Diff_Player_179,30,119.71,14.06,1,0,6,10,0,0,16,0,0,6.07,6.83,18.51,147,6,7,64,0,32,0.00,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_180,134,126.44,13.00,5,2,55,47,0,0,32,3,1,4.27,8.48,35.09,1207,43,94,190,1,33,0.43,International,India,Spin-All Rounder,Capped
+Diff_Player_181,126,123.96,15.76,8,3,2,35,0,0,287,23,44,7.87,7.58,16.52,8151,123,191,1401,7,32,0.33,International,England,Fast-All Rounder,Capped
+Diff_Player_182,321,132.91,11.94,20,23,307,114,0,0,85,4,0,5.34,7.78,27.15,2004,67,196,611,1,27,2.27,International,India,Spin-All Rounder,Capped
+Diff_Player_183,4,95.42,8.28,0,0,4,3,0,0,3,0,0,4.90,5.62,21.58,55,1,5,38,0,33,0.00,International,Netherlands,Spin All Rounder,Capped
+Diff_Player_184,517,114.17,22.93,27,38,576,176,0,3,0,0,0,1.70,11.22,105.41,128,11,10,20,0,21,6.19,International,India,Spin-All Rounder,Capped
+Diff_Player_185,228,114.81,15.46,16,20,282,150,0,1,28,1,0,4.74,7.80,29.96,871,36,65,223,0,30,0.00,International,Bangladesh,Spin-All Rounder,Capped
+Diff_Player_186,1184,125.88,25.13,56,102,1184,337,0,6,39,7,0,5.19,8.35,34.88,1903,90,120,396,0,32,1.26,International,England,Fast-All Rounder,Capped
+Diff_Player_187,104,99.59,17.82,5,10,65,33,0,0,0,0,0,1.07,10.06,133.27,17,1,1,6,0,19,1.85,International,India,Fast-All Rounder,Capped
+Diff_Player_188,1758,130.07,21.32,50,85,1097,537,0,4,32,4,0,4.04,7.53,30.13,1300,49,100,500,1,32,1.21,International,Netherlands,Spin-All Rounder,Capped
+Diff_Player_189,694,133.28,29.91,41,54,413,133,0,2,10,0,0,5.75,10.27,33.68,543,16,33,83,0,30,3.40,International,India,Fast-All Rounder,Capped
+Diff_Player_190,1362,129.04,17.99,65,52,792,310,0,1,103,4,0,4.51,8.38,32.21,2044,85,178,675,1,36,1.65,International,India,Fast-All Rounder,Capped
+Diff_Player_191,28,113.42,10.67,1,1,38,11,0,0,8,1,0,4.83,6.99,23.91,557,5,20,82,0,31,0.04,International,Ireland,Spin-All Rounder,Capped
+Diff_Player_192,1286,123.47,12.99,53,77,919,354,0,1,74,3,0,3.39,7.09,30.81,2649,100,83,885,3,33,1.71,International,England,Spin-All Rounder,Capped
+Diff_Player_193,560,140.29,17.83,48,40,493,217,0,0,90,7,2,4.90,7.64,29.89,3950,130,272,935,2,28,1.22,International,England,Fast-All Rounder,Capped
+Diff_Player_194,34,105.00,14.68,2,5,54,17,0,0,2,0,0,3.73,7.41,34.19,300,4,12,31,0,29,0.00,International,Netherlands,Fast-All Rounder,Capped
+Diff_Player_195,0,88.30,2.95,0,0,0,0,0,0,7,1,22,10.61,5.03,7.55,80,2,1,20,0,43,0.00,International,West Indies,Spin-All Rounder,Capped
+Diff_Player_196,0,100.68,2.87,0,0,0,0,0,0,0,0,0,11.09,4.35,7.11,2,0,0,0,0,30,0.00,International,Ireland,Spin All Rounder,Capped
+Diff_Player_197,634,161.79,26.61,41,122,597,218,0,1,25,1,0,4.15,9.25,41.40,932,60,84,166,1,31,2.28,Domestic,England,Fast-All Rounder,Uncapped
+Diff_Player_198,784,119.81,18.71,52,88,533,279,0,2,23,8,0,4.39,8.41,32.09,1910,85,72,677,1,28,0.02,International,India,Fast-All Rounder,Capped
+Diff_Player_199,397,134.48,23.74,47,31,419,182,0,6,34,3,0,5.89,8.98,30.80,763,23,52,66,0,27,0.81,Domestic,India,Spin-All Rounder,Uncapped
+Diff_Player_200,697,131.90,20.11,23,32,103,101,0,0,131,16,7,6.40,8.15,21.82,2291,92,204,443,4,31,0.46,International,England,Fast-All Rounder,Capped

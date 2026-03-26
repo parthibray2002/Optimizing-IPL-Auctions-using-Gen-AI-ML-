@@ -1,0 +1,201 @@
+Player,Bowling Strike Rate,Bowling Economy,Bowling Average,Wickets Taken,Runs Conceded,Sixes Conceded,Fours Conceded,Dot Balls Bowled,3 Wicket Hauls,5 Wicket hauls,Maidens Bowled,Age of the Player,Last Auction Price Sold (in Crs),Category,Country,Role,Capped/Uncapped
+Player_1,7.70,8.20,26.36,21,475,22,40,185,2,0,0,23,6.19,International,Afghanistan,Spin Bowler,Capped
+Player_2,17.82,8.19,26.38,41,1048,51,69,287,3,0,0,24,4.77,Domestic,India,Spin Bowler,Uncapped
+Player_3,16.61,9.51,27.65,60,1639,71,165,393,6,0,1,30,6.68,Domestic,India,Pace Bowler,Uncapped
+Player_4,16.25,9.11,27.40,27,694,33,64,199,2,0,1,27,3.27,Domestic,India,Pace Bowler,Uncapped
+Player_5,6.79,8.84,27.18,35,894,38,88,247,3,0,1,28,3.92,International,Sri Lanka,Pace Bowler,Capped
+Player_6,6.97,7.90,21.15,122,2554,78,231,772,13,2,4,29,1.26,International,Afghanistan,Pace Bowler,Capped
+Player_7,5.99,8.52,24.99,80,2041,76,206,602,8,0,2,31,12.80,International,Australia,Pace Bowler,Capped
+Player_8,6.33,8.81,25.71,33,760,32,71,198,4,0,1,28,2.37,International,Sri Lanka,Pace Bowler,Capped
+Player_9,8.13,8.62,25.38,68,1580,63,158,453,8,0,2,27,4.11,International,England,Pace Bowler,Capped
+Player_10,8.44,8.46,24.63,81,2014,78,188,553,9,0,1,30,8.06,International,England,Pace Bowler,Capped
+Player_11,6.52,8.26,23.24,136,3120,110,287,876,14,1,3,32,2.34,International,New Zealand,Pace Bowler,Capped
+Player_12,2.60,9.01,40.69,14,545,17,44,129,0,0,0,25,0.83,International,Sri Lanka,Pace Bowler,Capped
+Player_13,5.14,7.67,24.03,197,4704,155,464,1514,12,2,5,31,9.71,International,India,Pace Bowler,Capped
+Player_14,4.78,7.70,24.54,26,590,24,42,175,3,0,0,24,2.04,International,Afghanistan,Spin Bowler,Capped
+Player_15,5.86,7.66,20.92,67,1356,57,95,417,8,0,2,25,0.65,International,Australia,Spin Bowler,Capped
+Player_16,6.16,7.80,24.73,105,2324,78,215,753,10,0,4,29,3.23,International,South Africa,Pace Bowler,Capped
+Player_17,7.70,7.71,18.82,12,249,5,18,54,2,0,0,26,0.51,International,Ireland,Spin Bowler,Capped
+Player_18,20.55,8.67,29.71,77,2211,109,139,530,7,0,1,30,11.55,International,India,Spin Bowler,Capped
+Player_19,9.01,8.81,20.07,26,513,26,39,140,3,0,0,26,0.33,International,India,Pace Bowler,Capped
+Player_20,24.43,10.84,46.75,12,536,30,61,142,1,0,1,28,1.90,International,India,Pace Bowler,Capped
+Player_21,6.76,7.65,21.01,31,664,28,49,198,3,0,1,28,0.20,International,Nepal,Spin Bowler,Capped
+Player_22,15.41,8.42,26.47,72,1848,80,166,514,6,0,1,26,4.05,Domestic,India,Pace Bowler,Uncapped
+Player_23,7.00,8.30,21.04,174,3624,129,338,996,23,3,3,32,0.65,International,Australia,Pace Bowler,Capped
+Player_24,7.55,8.53,25.70,70,1798,74,161,473,7,0,1,26,3.66,International,England,Pace Bowler,Capped
+Player_25,5.07,9.17,30.29,26,811,34,84,189,3,0,0,33,1.49,International,New Zealand,Pace Bowler,Capped
+Player_26,5.53,7.98,25.86,32,821,33,63,229,2,0,0,33,1.24,International,USA,Spin Bowler,Capped
+Player_27,6.33,7.74,21.95,166,3562,144,273,1077,19,0,5,32,0.78,International,South Africa,Spin Bowler,Capped
+Player_28,7.93,9.05,23.12,25,600,25,60,162,3,0,1,29,1.10,International,India,Pace Bowler,Capped
+Player_29,6.14,8.38,23.95,31,709,28,54,175,3,0,0,26,0.55,International,Ireland,Pace Bowler,Capped
+Player_30,14.78,9.11,24.20,54,1287,61,112,357,4,0,1,28,2.13,Domestic,India,Pace Bowler,Uncapped
+Player_31,4.25,9.25,34.94,20,744,32,64,185,1,0,1,29,3.31,International,Netherlands,Pace Bowler,Capped
+Player_32,5.73,9.29,33.12,28,911,43,89,237,3,0,1,30,12.70,International,West Indies,Pace Bowler,Capped
+Player_33,10.70,8.43,24.80,102,2494,95,222,652,9,0,3,30,1.85,International,India,Medium Pace Bowler,Uncapped
+Player_34,5.88,7.56,22.77,116,2539,92,178,770,12,0,4,29,0.79,International,Nepal,Spin Bowler,Capped
+Player_35,4.71,8.57,27.83,146,4011,134,172,681,12,3,0,35,3.65,International,New Zealand,Spin Bowler,Capped
+Player_36,7.84,7.54,23.37,215,4917,173,468,1659,13,2,7,32,11.05,International,Australia,Medium Pace Bowler,Capped
+Player_37,10.41,8.72,15.34,-7,-289,-12,-34,-57,1,0,-1,25,1.25,Domestic,India,Spin Bowler,Uncapped
+Player_38,10.30,9.24,23.46,35,874,36,82,225,4,0,1,29,1.75,International,India,Pace Bowler,Capped
+Player_39,5.97,7.86,22.96,91,1976,74,175,608,10,0,3,28,1.11,International,Australia,Pace Bowler,Capped
+Player_40,13.48,9.21,21.67,12,206,12,18,62,2,0,0,26,3.53,Domestic,India,Pace Bowler,Uncapped
+Player_41,13.97,8.81,22.25,33,790,41,62,222,3,0,1,26,1.91,Domestic,India,Spin Bowler,Uncapped
+Player_42,6.71,7.96,21.11,184,4154,178,333,1200,20,0,4,34,2.03,International,South Africa,Spin Bowler,Capped
+Player_43,5.50,7.12,22.07,85,1870,76,123,569,9,0,3,25,0.87,International,Nepal,Spin Bowler,Capped
+Player_44,18.60,8.71,29.99,72,2005,99,125,476,6,0,1,30,12.72,International,India,Spin Bowler,Capped
+Player_45,6.36,7.41,23.58,45,1108,45,82,364,4,0,2,32,1.29,International,USA,Spin Bowler,Capped
+Player_46,5.69,7.51,24.37,83,1992,77,151,616,8,0,3,33,0.86,International,England,Spin Bowler,Capped
+Player_47,6.84,8.01,22.10,145,3036,111,241,850,17,1,4,34,1.01,International,New Zealand,Pace Bowler,Capped
+Player_48,18.67,9.05,29.50,56,1535,69,142,390,5,0,1,28,5.53,Domestic,India,Pace Bowler,Uncapped
+Player_49,6.06,6.98,21.10,56,1165,51,77,404,6,0,2,28,0.75,International,Sri Lanka,Spin Bowler,Capped
+Player_50,5.57,8.40,25.72,90,2324,73,148,519,9,1,2,34,0.87,International,New Zealand,Pace Bowler,Capped
+Player_51,7.93,7.63,19.32,6,80,-5,2,16,1,0,0,27,0.60,International,Ireland,Spin Bowler,Capped
+Player_52,5.30,7.87,26.50,43,1160,43,96,320,3,0,1,33,1.24,International,New Zealand,Pace Bowler,Capped
+Player_53,17.00,9.45,28.14,56,1525,64,149,383,6,0,1,29,6.59,Domestic,India,Pace Bowler,Uncapped
+Player_54,6.13,7.84,24.01,49,1262,48,105,364,5,0,1,32,1.48,International,USA,Pace Bowler,Capped
+Player_55,13.41,8.75,23.64,47,1129,52,95,317,4,0,1,26,2.06,Domestic,India,Pace Bowler,Uncapped
+Player_56,9.39,8.80,21.24,25,500,23,37,149,3,0,0,25,2.08,Domestic,India,Pace Bowler,Uncapped
+Player_57,4.92,9.13,30.34,23,662,28,63,172,2,0,0,32,0.77,International,Australia,Pace Bowler,Capped
+Player_58,6.64,10.25,39.75,11,780,35,101,159,2,0,0,33,6.48,International,Netherlands,Medium Pace Bowler,Capped
+Player_59,17.37,9.17,26.78,23,783,35,75,210,2,0,1,27,2.65,Domestic,India,Pace Bowler,Uncapped
+Player_60,6.55,7.85,21.50,48,961,44,65,275,6,0,1,26,0.83,International,Sri Lanka,Spin Bowler,Capped
+Player_61,6.33,7.68,21.59,69,1487,57,121,474,7,0,3,32,1.93,International,South Africa,Pace Bowler,Capped
+Player_62,5.54,8.70,29.24,29,843,32,77,222,2,0,1,28,3.09,International,Sri Lanka,Pace Bowler,Capped
+Player_63,5.79,8.14,25.27,87,2191,80,188,627,9,0,2,32,1.11,International,England,Pace Bowler,Capped
+Player_64,6.77,8.10,21.77,70,1432,61,118,419,7,0,2,26,0.97,International,England,Pace Bowler,Capped
+Player_65,14.63,9.18,27.20,79,1933,84,168,476,8,0,1,31,9.97,Domestic,India,Pace Bowler,Uncapped
+Player_66,5.74,7.88,21.84,67,1474,63,119,426,7,0,2,26,0.80,International,Sri Lanka,Spin Bowler,Capped
+Player_67,5.57,8.75,27.21,21,530,21,48,141,2,0,1,30,0.97,International,Australia,Pace Bowler,Capped
+Player_68,5.97,8.01,21.67,60,1317,58,98,357,6,0,1,25,0.57,International,England,Spin Bowler,Capped
+Player_69,10.12,8.74,17.51,8,98,7,-1,32,2,0,0,26,1.02,Domestic,India,Spin Bowler,Uncapped
+Player_70,4.24,8.92,32.41,17,559,21,49,150,1,0,0,29,0.59,International,Australia,Pace Bowler,Capped
+Player_71,6.38,7.76,21.12,45,980,43,82,301,5,0,2,30,1.26,International,Australia,Spin Bowler,Capped
+Player_72,9.60,8.69,20.01,32,669,33,45,178,4,0,0,26,1.03,International,India,Spin Bowler,Uncapped
+Player_73,7.13,8.39,21.89,154,3415,128,315,945,18,1,3,33,2.10,International,Australia,Pace Bowler,Capped
+Player_74,17.65,9.42,28.24,43,1127,50,116,315,4,0,1,28,4.99,Domestic,India,Pace Bowler,Uncapped
+Player_75,5.77,9.11,27.13,33,869,36,75,214,3,0,0,32,1.56,International,New Zealand,Pace Bowler,Capped
+Player_76,5.89,6.67,25.15,262,6312,192,524,2283,19,2,15,27,0.92,International,Afghanistan,Spin Bowler,Capped
+Player_77,19.77,8.88,28.78,120,3186,131,283,738,6,2,3,35,2.51,Domestic,India,Medium Pace Bowler,Uncapped
+Player_78,13.23,8.59,22.36,41,890,45,60,253,4,0,0,25,2.75,Domestic,India,Spin Bowler,Uncapped
+Player_79,8.09,9.22,23.43,14,326,16,38,95,2,0,1,28,0.51,International,India,Pace Bowler,Capped
+Player_80,6.56,8.56,25.15,59,1394,53,129,400,7,0,1,30,9.41,International,Australia,Pace Bowler,Capped
+Player_81,5.62,7.38,22.51,64,1556,59,96,438,6,0,2,34,1.20,International,USA,Spin Bowler,Capped
+Player_82,6.05,7.76,28.70,54,1468,58,90,373,6,0,0,21,4.70,International,England,Spin Bowler,Capped
+Player_83,6.26,7.83,21.43,64,1311,58,101,393,7,0,2,25,0.46,International,Sri Lanka,Spin Bowler,Capped
+Player_84,5.32,7.66,23.50,143,3491,148,283,1085,13,0,4,35,1.62,International,South Africa,Spin Bowler,Capped
+Player_85,6.32,6.35,20.95,177,3639,131,179,1275,17,0,11,26,1.34,International,Nepal,Spin Bowler,Capped
+Player_86,10.90,10.01,36.44,15,653,31,65,162,0,0,1,27,2.54,Domestic,India,Pace Bowler,Uncapped
+Player_87,5.56,9.56,34.73,20,661,29,66,151,1,0,0,28,3.15,International,Sri Lanka,Pace Bowler,Capped
+Player_88,5.72,7.79,22.64,139,3108,93,294,1028,14,1,6,28,1.64,International,Afghanistan,Pace Bowler,Capped
+Player_89,5.44,7.88,24.89,94,2380,97,207,737,9,0,3,31,0.87,International,Bangladesh,Spin Bowler,Capped
+Player_90,10.60,7.70,24.96,119,2743,80,268,969,10,0,7,30,3.65,International,India,Medium Pace Bowler,Capped
+Player_91,7.54,7.83,20.34,12,250,4,18,57,2,0,0,26,0.47,International,Ireland,Spin Bowler,Capped
+Player_92,5.51,8.62,28.38,39,1156,42,101,295,3,0,1,28,2.69,International,England,Pace Bowler,Capped
+Player_93,7.07,8.43,21.46,161,3758,156,323,1038,17,0,3,34,5.03,International,South Africa,Pace Bowler,Capped
+Player_94,5.22,7.53,24.06,39,903,37,48,242,4,0,0,21,3.92,International,Afghanistan,Spin Bowler,Capped
+Player_95,5.94,8.11,23.88,121,2919,105,243,806,12,0,3,34,1.11,International,England,Pace Bowler,Capped
+Player_96,11.94,8.58,23.07,152,3503,148,275,915,13,1,3,33,11.85,Domestic,India,Pace Bowler,Uncapped
+Player_97,4.40,7.40,25.38,152,3811,132,192,857,16,1,3,39,-0.86,International,South Africa,Spin Bowler,Capped
+Player_98,7.09,8.65,25.31,60,1520,56,143,405,7,0,1,30,5.94,International,Australia,Pace Bowler,Capped
+Player_99,5.65,9.13,28.76,8,315,10,28,55,1,0,0,28,-1.10,International,Ireland,Medium Pace Bowler,Capped
+Player_100,4.60,7.31,25.82,120,3030,107,176,765,12,0,3,38,-1.13,International,South Africa,Spin Bowler,Capped
+Player_101,6.49,7.75,21.61,38,862,37,72,252,4,0,1,32,1.49,International,USA,Spin Bowler,Capped
+Player_102,16.63,8.03,23.90,36,1014,53,94,314,2,0,1,25,3.42,Domestic,India,Spin Bowler,Uncapped
+Player_103,5.73,8.46,23.86,63,1534,62,126,410,7,0,1,26,1.11,International,England,Pace Bowler,Capped
+Player_104,19.43,8.91,29.09,67,1860,80,195,547,5,0,2,29,6.27,Domestic,India,Pace Bowler,Uncapped
+Player_105,4.90,9.44,34.35,23,852,36,81,186,2,0,0,33,1.52,International,Netherlands,Medium Pace Bowler,Capped
+Player_106,6.52,8.45,23.93,20,490,19,42,127,2,0,1,30,0.77,International,Australia,Pace Bowler,Capped
+Player_107,5.84,8.14,23.90,79,1890,69,102,442,7,1,2,32,1.13,International,New Zealand,Spin Bowler,Capped
+Player_108,5.25,8.70,25.27,107,2955,113,298,817,10,0,3,34,9.83,International,India,Pace Bowler,Capped
+Player_109,5.42,8.45,27.77,58,1627,58,165,471,6,0,1,31,3.62,International,England,Pace Bowler,Capped
+Player_110,6.20,8.22,22.61,106,2308,84,180,625,12,1,3,30,0.47,International,England,Medium Pace Bowler,Capped
+Player_111,5.61,8.25,24.45,97,2300,81,195,638,10,0,3,32,0.39,International,England,Pace Bowler,Capped
+Player_112,17.11,8.65,26.75,72,1886,84,167,513,4,0,2,28,3.48,Domestic,India,Pace Bowler,Uncapped
+Player_113,6.52,7.61,21.38,106,2155,79,167,675,12,1,4,32,1.23,International,West Indies,Pace Bowler,Capped
+Player_114,6.63,7.48,19.87,32,625,30,46,204,4,0,1,28,0.79,International,USA,Spin Bowler,Capped
+Player_115,6.20,7.82,22.11,106,2235,77,209,721,11,1,4,28,1.84,International,England,Pace Bowler,Capped
+Player_116,10.67,8.13,24.13,135,3542,162,280,968,8,1,3,32,17.85,International,India,Spin Bowler,Capped
+Player_117,10.92,9.43,26.49,31,874,36,88,212,3,0,0,29,3.91,Domestic,India,Pace Bowler,Uncapped
+Player_118,7.01,8.39,22.55,71,1540,59,129,437,7,0,2,29,1.55,International,South Africa,Pace Bowler,Capped
+Player_119,6.25,8.61,25.00,60,1484,58,139,400,6,0,1,28,3.78,International,England,Pace Bowler,Capped
+Player_120,6.44,8.18,22.72,23,553,22,47,150,2,0,0,32,1.23,International,USA,Pace Bowler,Capped
+Player_121,6.46,8.01,22.20,42,928,39,81,280,4,0,1,29,0.71,International,Australia,Pace Bowler,Capped
+Player_122,5.92,7.69,20.12,144,2940,90,268,957,16,2,6,28,1.55,International,Afghanistan,Pace Bowler,Capped
+Player_123,5.98,7.11,19.50,35,767,31,40,222,4,0,0,22,0.68,International,Netherlands,Spin Bowler,Capped
+Player_124,6.24,7.18,23.22,153,3530,99,285,1211,13,1,9,26,0.97,International,Afghanistan,Spin Bowler,Capped
+Player_125,5.79,7.47,21.61,79,1709,72,118,489,9,0,2,25,0.72,International,Sri Lanka,Spin Bowler,Capped
+Player_126,12.75,7.86,26.16,43,1041,45,51,278,4,0,0,21,5.14,Domestic,India,Spin Bowler,Uncapped
+Player_127,6.50,8.30,24.03,92,2213,90,185,603,10,0,2,27,1.05,International,England,Spin Bowler,Capped
+Player_128,5.70,8.43,26.95,38,1001,37,99,300,3,0,1,29,2.16,International,England,Pace Bowler,Capped
+Player_129,17.92,8.54,26.94,78,2132,92,210,579,5,0,2,29,4.82,Domestic,India,Pace Bowler,Uncapped
+Player_130,9.89,8.88,25.98,57,1452,57,146,404,6,0,1,29,4.95,International,India,Pace Bowler,Capped
+Player_131,6.18,8.47,23.94,113,2522,87,203,648,12,1,2,32,0.33,International,England,Pace Bowler,Capped
+Player_132,6.63,7.68,20.22,149,2928,99,244,893,19,2,5,31,1.06,International,Australia,Pace Bowler,Capped
+Player_133,13.34,8.82,23.31,50,1211,56,102,339,4,0,1,26,1.88,Domestic,India,Pace Bowler,Uncapped
+Player_134,11.58,8.92,26.35,68,1779,70,167,452,7,0,1,30,7.87,International,India,Pace Bowler,Uncapped
+Player_135,4.37,8.12,28.22,22,570,25,40,134,2,0,0,35,0.99,International,New Zealand,Spin Bowler,Capped
+Player_136,5.26,8.00,26.19,56,1537,55,122,407,5,0,1,33,1.68,International,South Africa,Pace Bowler,Capped
+Player_137,6.08,8.48,23.74,57,1353,52,129,391,6,0,2,30,1.48,International,Australia,Pace Bowler,Capped
+Player_138,8.48,8.22,23.79,17,319,15,17,130,2,0,0,23,6.33,Domestic,India,Spin Bowler,Uncapped
+Player_139,10.53,8.14,24.14,94,2141,77,209,660,10,0,4,29,2.41,International,India,Medium Pace Bowler,Uncapped
+Player_140,16.42,8.44,25.60,138,3318,127,325,992,8,1,5,34,9.14,Domestic,India,Medium Pace Bowler,Uncapped
+Player_141,7.67,8.84,25.68,98,2421,87,207,598,11,0,2,31,4.04,International,England,Pace Bowler,Capped
+Player_142,6.55,8.45,23.85,14,398,13,25,77,2,0,0,30,0.43,International,Ireland,Spin Bowler,Capped
+Player_143,5.78,7.98,25.24,23,557,22,46,152,2,0,0,32,0.58,International,USA,Spin Bowler,Capped
+Player_144,6.00,7.28,21.86,49,1088,46,66,304,6,0,1,24,0.55,International,Sri Lanka,Spin Bowler,Capped
+Player_145,5.50,8.38,23.93,134,3267,124,310,960,10,1,3,31,13.20,International,India,Pace Bowler,Capped
+Player_146,6.44,7.63,18.33,44,837,44,40,252,4,0,0,24,0.29,International,New Zealand,Spin Bowler,Uncapped
+Player_147,5.51,8.36,24.80,64,1597,62,139,444,7,0,2,28,1.55,International,England,Pace Bowler,Capped
+Player_148,5.32,8.78,28.32,41,1038,47,101,312,6,0,1,28,16.95,International,Sri Lanka,Pace Bowler,Capped
+Player_149,7.76,8.50,20.53,29,649,28,47,163,3,0,1,27,0.29,International,Nepal,Pace Bowler,Capped
+Player_150,5.98,7.59,23.44,17,339,10,22,109,2,0,0,28,0.84,International,Ireland,Spin Bowler,Capped
+Player_151,6.15,7.99,23.73,98,2176,84,169,631,11,0,3,29,0.81,International,England,Spin Bowler,Capped
+Player_152,5.53,7.69,23.45,35,802,35,52,251,4,0,1,27,0.47,International,USA,Spin Bowler,Capped
+Player_153,15.05,8.91,25.62,82,2059,87,184,537,7,0,2,29,4.13,Domestic,India,Pace Bowler,Uncapped
+Player_154,5.94,7.77,23.09,114,2519,93,191,750,12,0,4,30,0.65,International,England,Spin Bowler,Capped
+Player_155,5.64,8.68,26.67,63,1659,60,142,417,7,0,1,35,4.16,International,Australia,Pace Bowler,Capped
+Player_156,6.76,7.84,19.01,36,742,37,46,210,4,0,0,25,0.20,International,New Zealand,Spin Bowler,Capped
+Player_157,4.93,8.40,25.30,101,2600,105,234,698,10,0,1,36,7.50,International,Australia,Pace Bowler,Capped
+Player_158,23.89,8.84,33.15,68,2004,82,162,581,5,0,3,29,8.83,International,India,Pace Bowler,Capped
+Player_159,11.89,8.87,19.06,6,-37,4,-2,25,2,0,0,25,5.51,Domestic,India,Spin Bowler,Uncapped
+Player_160,5.85,8.66,26.33,59,1615,63,153,425,7,0,1,34,8.06,International,Australia,Pace Bowler,Capped
+Player_161,10.04,9.00,25.15,49,1183,48,119,322,5,0,1,28,2.75,International,India,Pace Bowler,Capped
+Player_162,17.43,9.77,29.79,62,1713,78,169,391,7,0,1,31,9.50,Domestic,India,Pace Bowler,Uncapped
+Player_163,13.72,8.04,25.79,108,2661,92,260,891,9,0,6,31,4.27,International,India,Medium Pace Bowler,Uncapped
+Player_164,18.08,9.23,28.28,37,975,43,99,267,3,0,1,28,4.41,Domestic,India,Pace Bowler,Uncapped
+Player_165,10.56,8.45,29.85,47,1325,53,90,337,4,0,1,25,7.92,International,India,Pace Bowler,Capped
+Player_166,5.31,7.39,22.84,51,1328,50,76,350,5,0,1,35,1.35,International,USA,Spin Bowler,Capped
+Player_167,6.27,8.87,27.40,26,654,28,60,180,2,0,1,28,1.72,International,Australia,Pace Bowler,Capped
+Player_168,7.01,8.50,23.09,137,3151,117,287,857,15,1,3,31,3.64,International,New Zealand,Pace Bowler,Capped
+Player_169,15.28,8.54,24.80,182,4176,190,304,1033,12,2,3,35,12.67,Domestic,India,Spin Bowler,Uncapped
+Player_170,6.30,8.21,25.24,87,2253,97,212,673,9,0,2,29,2.32,International,England,Spin Bowler,Capped
+Player_171,12.38,8.45,26.13,153,3629,162,257,991,9,1,3,32,20.85,International,India,Pace Bowler,Capped
+Player_172,6.05,7.94,20.95,143,2986,89,287,928,16,3,5,29,1.14,International,Afghanistan,Pace Bowler,Capped
+Player_173,4.70,8.33,28.10,12,371,10,21,65,1,0,0,32,0.26,International,Ireland,Spin Bowler,Capped
+Player_174,15.43,8.49,26.23,176,4341,169,366,1122,12,2,5,35,3.67,Domestic,India,Medium Pace Bowler,Uncapped
+Player_175,19.28,8.31,26.92,127,3060,147,225,786,10,0,2,32,12.20,Domestic,India,Spin Bowler,Uncapped
+Player_176,7.12,8.40,23.14,106,2511,95,231,671,12,0,3,29,0.93,International,England,Medium Pace Bowler,Capped
+Player_177,5.86,8.50,24.64,90,2228,81,222,626,9,0,2,32,3.25,International,England,Pace Bowler,Capped
+Player_178,6.77,8.75,26.37,51,1359,49,132,367,6,0,1,29,8.54,International,Australia,Pace Bowler,Capped
+Player_179,5.93,8.35,24.13,37,921,38,83,243,4,0,1,28,0.92,International,Sri Lanka,Pace Bowler,Capped
+Player_180,5.47,7.45,23.52,93,2163,87,163,687,9,0,4,29,0.64,International,Bangladesh,Spin Bowler,Capped
+Player_181,5.96,8.67,25.19,37,959,39,89,253,4,0,1,27,1.11,International,Australia,Pace Bowler,Capped
+Player_182,4.02,7.20,26.68,101,2627,81,106,566,10,0,2,39,-0.02,International,England,Spin Bowler,Capped
+Player_183,22.05,7.64,26.44,104,2669,124,185,791,6,1,3,32,10.96,International,India,Spin Bowler,Capped
+Player_184,12.29,8.82,18.35,16,291,21,17,91,2,0,0,26,1.90,Domestic,India,Spin Bowler,Uncapped
+Player_185,5.42,7.86,23.73,105,2452,97,201,750,11,0,3,30,0.55,International,Bangladesh,Spin Bowler,Capped
+Player_186,13.77,8.52,26.46,104,2640,123,193,677,8,0,1,31,17.17,International,India,Spin Bowler,Capped
+Player_187,18.90,8.36,27.70,113,3064,114,276,857,6,1,6,33,3.71,Domestic,India,Medium Pace Bowler,Uncapped
+Player_188,7.09,8.47,22.46,163,3525,133,318,963,20,2,3,31,0.87,International,Australia,Pace Bowler,Capped
+Player_189,5.98,6.83,20.02,42,858,41,55,289,5,0,1,26,0.58,International,Sri Lanka,Spin Bowler,Capped
+Player_190,14.92,9.31,25.28,56,1441,64,124,365,4,0,1,30,2.51,Domestic,India,Pace Bowler,Uncapped
+Player_191,17.49,8.11,27.18,78,2120,94,178,579,5,0,2,27,4.43,Domestic,India,Spin Bowler,Uncapped
+Player_192,6.09,8.65,25.49,45,1146,47,89,283,4,0,1,26,1.62,International,England,Pace Bowler,Capped
+Player_193,5.30,8.67,26.11,71,1980,74,206,546,8,0,2,32,11.24,International,Australia,Pace Bowler,Capped
+Player_194,5.65,8.71,26.84,41,972,39,93,282,4,0,1,31,4.61,International,Sri Lanka,Pace Bowler,Capped
+Player_195,11.32,8.76,18.85,5,-10,5,-7,37,2,0,0,25,4.79,Domestic,India,Spin Bowler,Uncapped
+Player_196,5.65,7.09,23.15,60,1448,55,80,411,6,0,2,35,0.83,International,USA,Spin Bowler,Capped
+Player_197,15.24,9.04,23.69,27,632,31,49,164,3,0,1,27,3.10,Domestic,India,Pace Bowler,Uncapped
+Player_198,7.06,8.55,25.33,107,2789,112,264,782,9,0,2,31,14.92,International,India,Pace Bowler,Capped
+Player_199,6.31,7.98,20.34,168,3403,113,321,1039,20,3,5,30,1.05,International,Afghanistan,Pace Bowler,Capped
+Player_200,6.05,7.54,23.03,100,2150,81,139,634,10,0,4,32,0.74,International,South Africa,Spin Bowler,Capped
